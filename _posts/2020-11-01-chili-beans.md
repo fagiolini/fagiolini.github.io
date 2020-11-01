@@ -35,6 +35,6 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 2.  add the rice and toast it for 1-2 minutes
 3.  add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
    
-   for more info on **pilaf rice** check [here](2020-11-01-pilaf-rice.md)
+   for more info on **pilaf rice** check [here](https://raw.githubusercontent.com/fagiolini/fagiolini.github.io/master/_posts/2020-11-01-pilaf-rice.md)
 
 
