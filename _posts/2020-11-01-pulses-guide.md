@@ -4,7 +4,7 @@ title: pulses - best practices
 excerpt_separator: <!--more-->
 ---
 
- <img src="../images/pulses.jpg" width="300">
+<img src="../images/pulses.jpg" width="300">
 
 <!--more-->
 

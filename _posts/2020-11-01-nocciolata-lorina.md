@@ -1,9 +1,12 @@
 ---
 layout: post
 title: nocciolata lorina
+excerpt_separator: <!--more-->
 ---
 
  <img src="../images/nocciolata-lorina.jpeg" width="300">
+
+<!--more-->
 
 # ingredients:
 - hazelnuts: 250g

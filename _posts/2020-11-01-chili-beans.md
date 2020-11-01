@@ -1,9 +1,12 @@
 ---
 layout: post
 title: chili beans
+excerpt_separator: <!--more-->
 ---
 
  <img src="../images/chili-beans.jpeg" width="300">
+
+<!--more-->
 
 to fully benefit from the beans' proteins couple them with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
