@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Goal
 
-This website aims to help people to integrate more #easypeasy #plantbased #nutricious recipes in their diet.
+This website aims at helping people to integrate more #easypeasy #plantbased #nutricious recipes in their diet.
 
 ### About Us
 

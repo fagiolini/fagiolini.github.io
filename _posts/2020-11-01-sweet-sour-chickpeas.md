@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sweet 'n sour chickpeas w/ veggies + rice
+title: sweet 'n sour chickpeas
 ---
 
- <img src="../images/sweet-sour-chickpeas.jpeg" width="400">
+ <img src="../images/sweet-sour-chickpeas.jpeg" width="300">
 
 ## Ingredients:
 
