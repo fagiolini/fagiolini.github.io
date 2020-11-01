@@ -48,7 +48,7 @@ title: chana masala
 9. turn off the heat and serve hot.
 
 
-# pilaf rice
+## pilaf rice
 1. warm some extra-virgin olive oil in a small pot 
 2.  add the rice and toast it for 1-2 minutes
 3.  add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
