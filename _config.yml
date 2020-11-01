@@ -9,7 +9,7 @@ name: fagiolini
 description: easy-peasy plant-based recipes
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://us.123rf.com/450wm/usbfco/usbfco1509/usbfco150900075/45735039-stock-vector-cute-peas-isolated-on-white.jpg?ver=6
+avatar: images/avatar
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: fagiolini/fagiolini.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

@@ -1,47 +1,28 @@
 ---
 layout: post
-title: sweet 'n sour chickpeas
+title: pulses - best practices
 ---
 
- <img src="../images/sweet-sour-chickpeas.jpeg" width="300">
+ <img src="../images/pulses.jpg" width="300">
 
-to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
+pulses are an amazing source of plant-based protein (to fully benefit of which always remember to couple them with some cereals, like rice or pasta).
 
-## ingredients:
+we prefer to use dry pulses then canned ones: they are cheaper, they have less packaging, and you can choose the texture you prefer (we often find canned pulses too soft for our taste). they are very easy to cook, but it takes a long time: we usually cook a lot of them at once (1kg of dry pulses) and then freeze them in bags of two abundant portions (between 200g and 250g of cooked pulses).
 
-- cooked chickpeas: 220g 
-- green part of 3 leeks
-- carrots: 2
-- juice of 1 lemon
-- soy sauce: 1/4 glass
-- agave syrup (or other sweetener, also brown sugar): two tablespoons
-- cornstarch: one teaspoon
-- rice: 180g
-- salt and pepper
+# beans and chickpeas
 
-## procedure
+1. soak the dry beans (any kind) or chickpeas in abundant water for at least one night, we normally put them in water in the evening and cook them the afternoon of the next day. their volume will then have at least doubled.
+2. rinse them well.
+3. put them in a pot with abundant cold water and warm them up. when the water boils, lower the heat and cover. after one hour taste them: the exact time will depend on their size and on your taste. they may cook for up to 1 hour and a half.
+4. add salt to the water when they are almost ready.
+5. drain and rinse the pulses when desired texture is reached.
+6. divide the cooked pulses in portions (single, double, for the family…), put them in containers appropriate for freezing (bags, tupperwares, jars - if they are made of glass do not fill them entirely because their volume will expand and the jar might break!) and store them in the freezer.
+7. when needed, defrost them: you can either remove them from the freezer the day before and keep them in the fridge to defrost slowly or defrost them in the microwave to have them ready to eat in a few minutes!
+> note: you can also find decorticated chickpeas that we sometimes use in our recipes. they are smaller and are faster to cook (around 20 minutes in boiling water, no soaking required).
 
-1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
+# lentils
 
-2. cut the carrots into thin strips. you can use other vegetables of your choice or even mushrooms.
+- **small lentils** (green, brown, red): they do not require soaking. they cook in boiling water for 15/20 minutes or in “risotto-style” for 20/25 minutes. “risotto style” means you sauté onions (with chili pepper, celery and carrots if you have them and like them) for a few minutes, then add the lentils. add hot vegetable broth little by little, as the lentils absorb it. the result will be more creamy then boiled lentils.
+- **decorticated lentils**: they are normally red/coral lentils. they cook by water/broth absorption, the ratio is 1(lentils):2(liquid). the result is extremely creamy as they tend to get undone.
+- **big lentils** (green, brown): if your lentils are big, soak them for at least 3 hours, this will shorten cooking time. then cook them as small lentils.
 
-3. if you are accompanying this recipe with pilaf rice, this is a good moment to start cooking it. [find recipe below](#pilaf-rice).
-
-4. put some extra-virgin olive oil into a frying pan, add leeks and carrots (or other vegetables), with a pinch of salt. cook in parallel to the rice. if it gets too dry add a bit of water.
-
-5. prepare the sweet and sour sauce: in a glass mix the soy sauce, the lemon juice, the agave syrup/cane sugar, and the cornstarch. 
-
-6. when the vegetables are soft (10 minutes more or less), add the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses here, or you can use canned chickpeas, after rinsing.
-
-7. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
-
-8. serve the chickpeas and vegetables on top of the rice.
-
-
-# pilaf rice
-
-1. warm some extra-virgin olive oil in a small pot 
-2. add the rice and toast it for a few minutes
-3. add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
-
-for more info on **pilaf rice**, check [here](2020-11-01-pilaf-rice.md).
