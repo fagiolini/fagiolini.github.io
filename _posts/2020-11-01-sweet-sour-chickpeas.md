@@ -31,7 +31,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 
 5. prepare the sweet and sour sauce: in a glass mix the soy sauce, the lemon juice, the agave syrup/cane sugar, and the cornstarch. 
 
-6. when the vegetables are soft (10 minutes more or less), add the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses here, or you can use canned chickpeas, after rinsing.
+6. when the vegetables are soft (10 minutes more or less), add the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned chickpeas, after rinsing.
 
 7. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
 
@@ -44,4 +44,4 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 2. add the rice and toast it for a few minutes
 3. add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
 
-for more info on **pilaf rice**, check [here](2020-11-01-pilaf-rice.md).
+for more info on **pilaf rice**, check [here](https://fagiolini.github.io/pilaf-rice/).

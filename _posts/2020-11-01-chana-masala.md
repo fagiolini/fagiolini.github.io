@@ -41,7 +41,7 @@ excerpt_separator: <!--more-->
 5. if you are accompanying your chana masala with some rice, it's time to start the cooking of it!  [find the recipe below](#pilaf-rice) 
 
    
-6. add the cooked chickpeas to the tomato sauce: you can either use canned and rinsed chickpeas, or cook your own chickpeas: [here are our suggestions](2020-11-01-pulses-guide.md).
+6. add the cooked chickpeas to the tomato sauce: you can either use canned and rinsed chickpeas, or cook your own chickpeas: [here are our suggestions](https://fagiolini.github.io/pulses-guide/).
 
 7. mince the ginger and add it: it's important to add it at the end and not at beginning, for it will be more tasty this way.
 
@@ -54,6 +54,6 @@ excerpt_separator: <!--more-->
 2.  add the rice and toast it for 1-2 minutes
 3.  add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
    
-   for more info on **pilaf rice** check [here](2020-11-01-pilaf-rice.md)
+   for more info on **pilaf rice** check [here](https://fagiolini.github.io/pilaf-rice/).
 
 

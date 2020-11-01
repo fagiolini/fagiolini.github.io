@@ -25,7 +25,7 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 2. chop the bell peppers and add to the onion with some salt. cook for some 10 minutes.
 3. add the tomato sauce or purée with a glass of water and cook on low heat for 25 minutes. a teaspoon of sugar will help make the sauce less acidic.
 4. if you are accompanying your chili beans with some rice, it's time to start the cooking of it!  [find the recipe below](#pilaf-rice). 
-5. back to the sauce: after 25 minutes of cooking, taste it: if it’s well cooked and not acidic add the cooked beans, otherwise wait a bit more. you can either use canned and rinsed beans, or cook your own beans: [here are our suggestions](2020-11-01-pulses-guide.md).
+5. back to the sauce: after 25 minutes of cooking, taste it: if it’s well cooked and not acidic add the cooked beans, otherwise wait a bit more. you can either use canned and rinsed beans, or cook your own beans: [here are our suggestions](https://fagiolini.github.io/pulses-guide/).
 6. add a tablespoon of tomato concentrate.
 7. cook on medium heat for a few more minutes.
 8. serve with tortillas or rice, or even tortillas filled with chili beans *and* rice! 
