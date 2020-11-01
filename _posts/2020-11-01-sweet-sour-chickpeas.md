@@ -21,7 +21,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 
 ## procedure
 
-1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course you can use the whole leek, including the white part, in this recipe.
+1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
 
 2. cut the carrots into thin strips. you can use other vegetables of your choice or even mushrooms.
 

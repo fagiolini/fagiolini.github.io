@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pulses: best practices
+title: pulses - best practices
 ---
  <img src="../images/pulses.jpg" width="300">
 

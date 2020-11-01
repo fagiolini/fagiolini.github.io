@@ -48,5 +48,4 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 6. on top of the chocolate couche, add the prepared mix.
 7. bake at 180 degrees in a preheated ventilated oven for 30 minutes.
 
-> we suggest to heat it slightly (in the microwave) before eating it.
-
+> we suggest heating it slightly (in the microwave) before eating it.
