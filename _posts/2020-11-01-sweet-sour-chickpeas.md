@@ -3,6 +3,8 @@ layout: post
 title: Sweet 'n sour chickpeas w/ veggies + rice
 ---
 
+ <img src="../images/sweet-sour-chickpeas.jpeg" width="400">
+
 ## Ingredients:
 
 - Cooked chickpeas: 220g 
