@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Goal
 
-### More Information
+This website aims to help people to integrate more #easypeasy #plantbased #nutricious recipes in their diet.
 
-A place to include any other types of information that you'd like to include about yourself.
+### About Us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We are a little family from Italy with a long tradition in vegetarianism and veganism.
