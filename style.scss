@@ -248,7 +248,7 @@ nav {
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  border-bottom: 1px solid $lightGray;
 }
 
 .post {
@@ -265,10 +265,10 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+  // .read-more {
+  //   text-transform: uppercase;
+  //   font-size: 15px;
+  // }
 }
 
 .wrapper-footer {
