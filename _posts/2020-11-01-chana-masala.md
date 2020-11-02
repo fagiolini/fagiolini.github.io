@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chana masala
+title: chana masala chickpeas
 excerpt_separator: <!--more-->
 ---
 
@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
- chana masala is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice). 
+ _chana masala_ is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice). 
 
 ## ingredients:
 

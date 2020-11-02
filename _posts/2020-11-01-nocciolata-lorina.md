@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nocciolata lorina
+title: lorina's hazelnut cream
 excerpt_separator: <!--more-->
 ---
 

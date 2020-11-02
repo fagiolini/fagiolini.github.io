@@ -1,9 +1,12 @@
 ---
 layout: post
 title: almond biscuits
+excerpt_separator: <!--more-->
 ---
 
  <img src="../images/almond-biscuits.jpeg" width="300">
+
+<!--more-->
 
 # ingredients:
 

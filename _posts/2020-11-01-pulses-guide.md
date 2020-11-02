@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pulses - best practices
+title: guide to pulses
 excerpt_separator: <!--more-->
 ---
 
