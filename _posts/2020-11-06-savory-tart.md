@@ -5,6 +5,8 @@ excerpt_separator: <!--more-->
 ---
 
  <img src="./images/savory-tart.jpeg" width="300">
+ 
+ <!--more-->
 
 this savory tart is very tasty and nutricious, thanks to the use of green leaf vegetables and to the proteins provided by the tofu. 
 you can modify the filling as you wish: change the spinach with other green leaf veggies (such as beets or turnip tops), add more tofu (up to 500g!) or change it with pulses (we tried with fava beans and loved it), change the dired tomatoes with capers or simply add them if you wish! 
