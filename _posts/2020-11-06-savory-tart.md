@@ -4,7 +4,7 @@ title: savory tart
 excerpt_separator: <!--more-->
 ---
 
- <img src="./images/savory-tart.jpeg" width="300">
+ <img src="../images/savory-tart.jpeg" width="300">
  
  <!--more-->
 
