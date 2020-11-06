@@ -14,7 +14,7 @@ start with the shortbrad dough, place it in the cake pan, and then move to the i
 ## ingredients:
 ---
 
-- 0 or 00 flour: 180g
+- all-purpose flour: 180g
 - brown sugar (or other sugar): 20g
 - baking powder: 5g
 - sunflower oil (or other seed oil): 50g (might need 10g more if you use 00 flour)
@@ -37,7 +37,7 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 - cornstarch or potato starch: 2 tablespoons
 - soy yogurt: 65g
 - chopped almonds: 125g
-- 0 or 00 flour: 30g 
+- all-purpose flour: 30g 
 - dark chocolate: 20g
 - apple: 1
 

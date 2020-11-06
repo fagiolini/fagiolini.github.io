@@ -25,7 +25,7 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
 
 # lentils
 
-- **small lentils** (green, brown, red): they do not require soaking. they cook in boiling water for 15/20 minutes or in “risotto-style” for 20/25 minutes. “risotto style” means you sauté onions (with chili pepper, celery and carrots if you have them and like them) for a few minutes, then add the lentils. add hot vegetable broth little by little, as the lentils absorb it. the result will be more creamy then boiled lentils.
+- **small lentils** (green, brown, red): they do not require soaking. they cook in boiling water for 15/20 minutes or in “risotto-style” for 20/25 minutes. “risotto style” means you sauté onions (with chili pepper, celery and carrots if you have them and like them) for a few minutes, then add the lentils. add hot vegetable broth little by little, as the lentils absorb it. the result will be more creamy than boiled lentils.
 - **decorticated lentils**: they are normally red/coral lentils. they cook by water/broth absorption, the ratio is 1(lentils):2(liquid). the result is extremely creamy as they tend to get undone.
 - **big lentils** (green, brown): if your lentils are big, soak them for at least 3 hours, this will shorten cooking time. then cook them as small lentils.
 
