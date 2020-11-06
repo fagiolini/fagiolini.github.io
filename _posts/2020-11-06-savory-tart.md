@@ -14,7 +14,7 @@ the recipe we provide here is just a starting point for your creativity.
 # for the tart dough
 
 ## ingredients:
-- flour of choice (we used semi-whole spelt): 400g
+- flour of choice (we used semi-whole spelt, but you can use all-purpose): 400g
 - seed oil (peanut or sunflower): 90g
 - extra-virgin olive oil: 90g
 - water: 200g
