@@ -9,7 +9,7 @@ this is a quick, healthy and simple way of cooking rice that is widespread in th
 
 enjoy it together with vegetables and tofu or pulses for a complete super-nutricious meal.
 
-# procedure
+## procedure
 
 1. warm some extra-virgin olive oil in a small pot.
 2. add the rice and toast it for a 1/2 minutes.
