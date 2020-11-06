@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 ## ingredients:
+---
 
 - almonds: 130g
 - flour: 200g 
@@ -17,6 +18,7 @@ excerpt_separator: <!--more-->
 - marsala wine (or other sweet wine): 1 small glass
 
 ## procedure:
+---
 
 1. chop the almonds and toast them for a few minutes in the oven or in the pan.
 2. mix the oil with the sugar, add the wine.

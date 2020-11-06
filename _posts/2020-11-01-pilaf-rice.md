@@ -10,6 +10,7 @@ this is a quick, healthy and simple way of cooking rice that is widespread in th
 enjoy it together with vegetables and tofu or pulses for a complete super-nutricious meal.
 
 ## procedure
+---
 
 1. warm some extra-virgin olive oil in a small pot.
 2. add the rice and toast it for a 1/2 minutes.
@@ -19,6 +20,7 @@ enjoy it together with vegetables and tofu or pulses for a complete super-nutric
 4. serve as it is or, in case you want to give it a shape as in the picture, put it into a bowl and press it to make it stick together, then turn it on a plate.
 
 ## flavors
+---
 
 you can flavour your pilaf rice adding spices and other ingredients to your pot. here are our suggestions:
 

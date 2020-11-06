@@ -14,6 +14,8 @@ the recipe we provide here is just a starting point for your creativity.
 # for the tart dough
 
 ## ingredients:
+---
+
 - flour of choice (we used semi-whole spelt, but you can use all-purpose too): 400g
 - seed oil (peanut or sunflower): 90g
 - extra-virgin olive oil: 90g
@@ -22,11 +24,15 @@ the recipe we provide here is just a starting point for your creativity.
 - sugar: 1 teaspoon
   
 ## procedure
+---
+
 add the dry ingredients to the liquid ingredients and knead for a few minutes until smooth. you will have a greasy, very soft and elastic dough at the end. it is not necessary to let it rest before rolling out.
 
 # for the filling
 
 ## ingredients
+---
+
 - spinach (or other leafy vegetable of choice): 500g
 - tofu: 350g
 - dried tomatoes: 7
@@ -34,6 +40,8 @@ add the dry ingredients to the liquid ingredients and knead for a few minutes un
 - salt and chili pepper
 
 ## procedure
+---
+
 1. mince tha garlic and sauté in extra-virgin olive oil with the chili pepper.
 2. add the spinach with a pinch of salt and cook at medium heat, stirring.
 3. in the meantime, crumble the tofu with your hands.

@@ -8,6 +8,7 @@ title: sweet 'n sour chickpeas
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
 ## ingredients:
+---
 
 - cooked chickpeas: 220g 
 - green part of 3 leeks
@@ -20,6 +21,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 - salt and pepper
 
 ## procedure
+---
 
 1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
 
@@ -39,6 +41,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 
 
 # pilaf rice
+---
 
 1. warm some extra-virgin olive oil in a small pot 
 2. add the rice and toast it for a few minutes

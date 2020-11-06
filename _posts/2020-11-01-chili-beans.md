@@ -11,6 +11,8 @@ excerpt_separator: <!--more-->
 to fully benefit from the beans' proteins couple them with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
 ## ingredients:
+---
+
 - precooked beans (red, black, or kidney): 250g
 - onion: 1
 - bell peppers (any colour): 2
@@ -21,6 +23,8 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 - sugar: 1 teaspoon
 
 ## procedure:
+---
+
 1. chop the onion in thin slices and sauté with extra-virgin olive oil and chili peppers (quantity depending on your taste).
 2. chop the bell peppers and add to the onion with some salt. cook for some 10 minutes.
 3. add the tomato sauce or purée with a glass of water and cook on low heat for 25 minutes. a teaspoon of sugar will help make the sauce less acidic.
@@ -31,6 +35,8 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 8. serve with tortillas or rice, or even tortillas filled with chili beans *and* rice! 
 
 # pilaf rice
+---
+
 1. warm some extra-virgin olive oil in a small pot 
 2.  add the rice and toast it for 1-2 minutes
 3.  add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.

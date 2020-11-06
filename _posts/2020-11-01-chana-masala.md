@@ -11,6 +11,7 @@ excerpt_separator: <!--more-->
  _chana masala_ is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice). 
 
 ## ingredients:
+---
 
 - cooked chickpeas (normal or decorticated): 230g
 - tomato sauce or purée: 350g
@@ -30,6 +31,7 @@ excerpt_separator: <!--more-->
 </figure>
 
 ## procedure:
+---
 
 1. mince the garlic clove and sauté it in a pot with some extravirgin olive oil and the chili pepper.
    
@@ -50,6 +52,8 @@ excerpt_separator: <!--more-->
 
 
 ## pilaf rice
+---
+
 1. warm some extra-virgin olive oil in a small pot 
 2.  add the rice and toast it for 1-2 minutes
 3.  add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
