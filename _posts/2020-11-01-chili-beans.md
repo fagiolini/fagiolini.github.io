@@ -20,7 +20,7 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 - salt
 - sugar: 1 teaspoon
 
-# procedure:
+## procedure:
 1. chop the onion in thin slices and sauté with extra-virgin olive oil and chili peppers (quantity depending on your taste).
 2. chop the bell peppers and add to the onion with some salt. cook for some 10 minutes.
 3. add the tomato sauce or purée with a glass of water and cook on low heat for 25 minutes. a teaspoon of sugar will help make the sauce less acidic.
