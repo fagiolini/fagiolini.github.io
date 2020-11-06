@@ -34,7 +34,7 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 - cornstarch or potato starch: 2 tablespoons
 - soy yogurt: 65g
 - chopped almonds: 125g
-- 0 or 00 flour: 30g 
+- all-purpose flour: 30g 
 - dark chocolate: 20g
 - apple: 1
 
