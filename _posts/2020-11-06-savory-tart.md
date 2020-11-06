@@ -13,7 +13,7 @@ you can modify the filling as you wish: change the spinach with other green leaf
 the recipe we provide here is just a starting point for your creativity.
 # for the tart dough
 
-## ingredients:
+## ingredients
 ---
 
 - flour of choice (we used semi-whole spelt, but you can use all-purpose too): 400g
