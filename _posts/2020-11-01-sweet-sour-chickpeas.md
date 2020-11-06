@@ -7,7 +7,7 @@ title: sweet 'n sour chickpeas
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
-## ingredients:
+## ingredients
 ---
 
 - cooked chickpeas: 220g 

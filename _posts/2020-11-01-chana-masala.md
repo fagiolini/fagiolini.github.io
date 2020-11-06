@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
  _chana masala_ is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice). 
 
-## ingredients:
+## ingredients
 ---
 
 - cooked chickpeas (normal or decorticated): 230g
@@ -30,7 +30,7 @@ excerpt_separator: <!--more-->
   <figcaption>chana masala spice mix as found in most shops</figcaption>
 </figure>
 
-## procedure:
+## procedure
 ---
 
 1. mince the garlic clove and sauté it in a pot with some extravirgin olive oil and the chili pepper.

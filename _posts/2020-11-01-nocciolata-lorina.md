@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## ingredients:
+## ingredients
 ---
 
 - hazelnuts: 250g
@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 - peanut or sunflower oil: 6 tablespoons
 - brown sugar: 150g
 
-## procedure:
+## procedure
 ---
 
 1. blend the hazelnuts with oil and sugar until you get a cream, if the mixture remains grainy add some oil. 

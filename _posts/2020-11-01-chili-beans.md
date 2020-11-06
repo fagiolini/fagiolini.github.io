@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 to fully benefit from the beans' proteins couple them with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
-## ingredients:
+## ingredients
 ---
 
 - precooked beans (red, black, or kidney): 250g
@@ -22,7 +22,7 @@ to fully benefit from the beans' proteins couple them with corn tortillas or wit
 - salt
 - sugar: 1 teaspoon
 
-## procedure:
+## procedure
 ---
 
 1. chop the onion in thin slices and sauté with extra-virgin olive oil and chili peppers (quantity depending on your taste).

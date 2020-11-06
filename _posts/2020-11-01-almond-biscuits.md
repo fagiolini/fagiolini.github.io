@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## ingredients:
+## ingredients
 ---
 
 - almonds: 130g
@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 - cane sugar: 50g
 - marsala wine (or other sweet wine): 1 small glass
 
-## procedure:
+## procedure
 ---
 
 1. chop the almonds and toast them for a few minutes in the oven or in the pan.
