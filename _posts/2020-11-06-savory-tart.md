@@ -1,6 +1,6 @@
 ---
 layout: post
-title: savory tart
+title: savory tart w/ spinach & tofu
 excerpt_separator: <!--more-->
 ---
 
