@@ -12,6 +12,7 @@ start with the shortbrad dough, place it in the cake pan, and then move to the i
 # for the shortbread: 
 
 ## ingredients:
+---
 
 - 0 or 00 flour: 180g
 - brown sugar (or other sugar): 20g
@@ -21,6 +22,7 @@ start with the shortbrad dough, place it in the cake pan, and then move to the i
 - salt: 1 pinch
 
 ## procedure:
+---
 
 add the liquid ingredients to the dry ingredients and knead for a few minutes until smooth. it is not necessary to let it rest before rolling out.
 
@@ -28,6 +30,7 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 # for the filling:
 
 ## ingredients:
+---
 
 - sunflower oil: 90g
 - brown sugar: 85g 
@@ -39,6 +42,7 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 - apple: 1
 
 ## procedure:
+---
 
 1. melt the chocolate in the microwave or bain-marie. 
 2. chop the almonds half finely, half coarsely. 
