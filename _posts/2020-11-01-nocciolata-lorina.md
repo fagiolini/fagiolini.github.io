@@ -4,7 +4,7 @@ title: lorina's hazelnut cream
 excerpt_separator: <!--more-->
 ---
 
- <img src="../images/nocciolata-lorina.jpeg" width="300">
+ <img src="../images/nocciolata-lorina.jpg" width="300">
 
 <!--more-->
 
