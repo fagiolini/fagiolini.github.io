@@ -4,7 +4,7 @@ title: guide to pulses
 excerpt_separator: <!--more-->
 ---
 
-<img src="../images/pulses.jpg" width="300">
+<img src="../images/pulses-square.jpg" width="300">
 
 <!--more-->
 
