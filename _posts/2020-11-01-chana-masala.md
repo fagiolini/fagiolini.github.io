@@ -51,7 +51,7 @@ excerpt_separator: <!--more-->
 9. turn off the heat and serve hot.
 
 
-## pilaf rice
+# pilaf rice
 ---
 
 1. warm some extra-virgin olive oil in a small pot 
