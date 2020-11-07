@@ -4,7 +4,7 @@ title: chana masala chickpeas
 excerpt_separator: <!--more-->
 ---
 
- <img src="../images/chana-masala.jpg" width="300">
+ <img src="../images/chana-masala-square.jpg" width="300">
 
 <!--more-->
 
