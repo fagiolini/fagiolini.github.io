@@ -9,9 +9,9 @@ this is a plant-based version of the popular french almond cake _tarte amandine_
 
 start with the shortbrad dough, place it in the cake pan, and then move to the instructions for the filling.
 
-# for the shortbread: 
+# for the shortbread
 
-## ingredients:
+## ingredients
 ---
 
 - all-purpose flour: 180g
@@ -21,15 +21,15 @@ start with the shortbrad dough, place it in the cake pan, and then move to the i
 - vegetable drink: 50g
 - salt: 1 pinch
 
-## procedure:
+## procedure
 ---
 
 add the liquid ingredients to the dry ingredients and knead for a few minutes until smooth. it is not necessary to let it rest before rolling out.
 
 
-# for the filling:
+# for the filling
 
-## ingredients:
+## ingredients
 ---
 
 - sunflower oil: 90g
@@ -41,7 +41,7 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 - dark chocolate: 20g
 - apple: 1
 
-## procedure:
+## procedure
 ---
 
 1. melt the chocolate in the microwave or bain-marie. 
