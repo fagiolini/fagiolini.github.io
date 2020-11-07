@@ -4,9 +4,11 @@ title: sweet 'n sour chickpeas
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../../../images/sweet-sour-chickpeas.jpeg" width="300">
+ <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
+
+*quantities for 2 abundant portions.*
 
 ## ingredients
 ---

@@ -5,11 +5,13 @@ excerpt_separator: <!--more-->
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../../../images/chana-masala.jpg" width="300">
+ <img src="../../../images/chana-masala-square.jpg" width="300">
 
 <!--more-->
 
- _chana masala_ is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice). 
+ _chana masala_ is an indian chickpeas recipe: to fully benefit from the chickpeas' proteins couple them with some rice! [find the recipe below](#pilaf-rice).
+ 
+ *quantities for 2 portions.*
 
 ## ingredients
 ---
@@ -52,7 +54,7 @@ tags: [pulses, protein+, glutenfree, w/rice]
 9. turn off the heat and serve hot.
 
 
-## pilaf rice
+# pilaf rice
 ---
 
 1. warm some extra-virgin olive oil in a small pot 
