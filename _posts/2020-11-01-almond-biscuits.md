@@ -4,7 +4,7 @@ title: almond biscuits
 excerpt_separator: <!--more-->
 ---
 
- <img src="../images/almond-biscuits.jpeg" width="300">
+ <img src="../images/almond-biscuits-square.jpeg" width="300">
 
 <!--more-->
 
