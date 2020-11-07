@@ -2,9 +2,10 @@
 layout: post
 title: almond biscuits
 excerpt_separator: <!--more-->
+tags: [sweets]
 ---
 
- <img src="../images/almond-biscuits.jpeg" width="300">
+ <img src="../../../images/almond-biscuits.jpeg" width="300">
 
 <!--more-->
 

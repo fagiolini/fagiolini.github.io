@@ -9,9 +9,16 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="tags"></div>
+    {% if post.tags.size > 0 %}
+    Tag{% if post.tags.size > 1 %}s{% endif %}:
+    {{ post.tags | sort | join: ", " }}
+    {% endif %}
   </div>
+
+  <!-- <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div> -->
 
   {% include disqus.html %}
 </article>

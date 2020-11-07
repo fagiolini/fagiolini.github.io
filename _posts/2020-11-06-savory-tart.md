@@ -1,10 +1,12 @@
 ---
 layout: post
 title: savory tart w/ spinach & tofu
+tags: tofu
 excerpt_separator: <!--more-->
+tags: [tofu, protein+]
 ---
 
- <img src="../images/savory-tart.jpeg" width="300">
+ <img src="../../../images/savory-tart.jpeg" width="300">
  
  <!--more-->
 

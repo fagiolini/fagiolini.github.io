@@ -2,9 +2,10 @@
 layout: post
 title: chili beans
 excerpt_separator: <!--more-->
+tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../images/chili-beans.jpeg" width="300">
+ <img src="../../../images/chili-beans.jpeg" width="300">
 
 <!--more-->
 

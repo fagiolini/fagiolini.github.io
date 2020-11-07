@@ -2,9 +2,10 @@
 layout: post
 title: chana masala chickpeas
 excerpt_separator: <!--more-->
+tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../images/chana-masala.jpg" width="300">
+ <img src="../../../images/chana-masala.jpg" width="300">
 
 <!--more-->
 
@@ -26,7 +27,7 @@ excerpt_separator: <!--more-->
 
 
  <figure class="image">
-  <img src="../images/chana-masala-box.jpg" width=200> 
+  <img src="../../../images/chana-masala-box.jpg" width=200> 
   <figcaption>chana masala spice mix as found in most shops</figcaption>
 </figure>
 

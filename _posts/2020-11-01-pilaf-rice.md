@@ -1,9 +1,10 @@
 ---
 layout: post
 title: pilaf rice
+tags: [w/rice, glutenfree]
 ---
 
- <img src="../images/pilaf-rice.jpg" width="300">
+ <img src="../../../images/pilaf-rice.jpg" width="300">
 
 this is a quick, healthy and simple way of cooking rice that is widespread in the middle-east.
 

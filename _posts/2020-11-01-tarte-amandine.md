@@ -1,9 +1,10 @@
 ---
 layout: post
 title: tarte amandine
+tags: [sweets]
 ---
 
- <img src="../images/tarte-amandine.jpeg" width="300">
+ <img src="../../../images/tarte-amandine.jpeg" width="300">
 
 this is a plant-based version of the popular french almond cake _tarte amandine_.
 
