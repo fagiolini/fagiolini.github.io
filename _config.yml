@@ -84,6 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-# include _pages folder as for _posts
-include: ['_pages']
