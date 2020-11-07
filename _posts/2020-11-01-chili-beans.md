@@ -4,7 +4,7 @@ title: chili beans
 excerpt_separator: <!--more-->
 ---
 
- <img src="../images/chili-beans.jpeg" width="300">
+ <img src="../images/chili-beans.jpg" width="300">
 
 <!--more-->
 
