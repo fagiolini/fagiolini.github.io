@@ -10,6 +10,8 @@ excerpt_separator: <!--more-->
 
 to fully benefit from the beans' proteins couple them with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
+*quantities for 2 portions.*
+
 ## ingredients
 ---
 
