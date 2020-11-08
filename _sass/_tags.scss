@@ -5,11 +5,11 @@
     margin-right: .5rem;
     border-radius: 4px;
     color: black;
-    font-family: $helvetica;
+    font-family: $helveticaNeue;
     font-size: 90%;
     // &:before {
     //   content: "";
-    //   font-family: $helvetica;
+    //   font-family: $helveticaNeue;
     //   padding-right: .5em;
     // }
     &:hover {
@@ -52,6 +52,6 @@
       a {
         text-decoration: none;
       }
-      font-family: $helvetica;
+      font-family: $helveticaNeue;
     }
   }

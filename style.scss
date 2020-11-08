@@ -217,8 +217,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
+  color: $gray;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -229,14 +230,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $gray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: rgb(112, 219, 25);
     }
   }
 }
