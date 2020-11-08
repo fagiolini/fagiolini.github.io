@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 tags: [tofu, protein+]
 ---
 
- <img src="../../../images/savory-tart.jpeg" width="300">
+ <img src="../../../images/savory-tart-square.jpeg" width="300">
  
  <!--more-->
 

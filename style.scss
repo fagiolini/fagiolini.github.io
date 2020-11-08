@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import "bourbon/bourbon";
+@import "tags";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -70,11 +72,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: rgb(112, 219, 25);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: rgb(112, 219, 25);
   }
 }
 
