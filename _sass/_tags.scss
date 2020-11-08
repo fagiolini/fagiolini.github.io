@@ -7,6 +7,11 @@
     color: black;
     font-family: $helvetica;
     font-size: 90%;
+    &:before {
+      content: "\f02b";
+      font-family: $helvetica;
+      padding-right: .5em;
+    }
     &:hover {
       text-decoration: none;
       background: rgb(112, 219, 25);
