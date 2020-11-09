@@ -14,7 +14,7 @@ this savory tart is very tasty and nutritious, thanks to the use of green leaf v
 you can modify the filling as you wish: change the spinach with zucchini or other green leaf veggies (such as beets or turnip tops), add more tofu (up to 500g!) or change it with pulses (we tried with fava beans and loved it), change the dired tomatoes with capers or simply add them if you wish! 
 the recipe we provide here is just a starting point for your creativity.
 
-*the whole tart makes 4 full portions.*
+*the whole tart makes 4 full portions*
 
 # for the tart dough
 

@@ -11,7 +11,7 @@ tags: [tofu, protein+, glutenfree]
 
  this salad is a real meal-saver: ready in 10 minutes, full of taste and proteins, perfect for a quick lunch during working days!
 
- *quantities for 2 portions.*
+ *quantities for 2 portions*
 
 ## ingredients
 ---

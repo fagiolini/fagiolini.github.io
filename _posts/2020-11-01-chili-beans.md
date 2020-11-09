@@ -9,9 +9,9 @@ tags: [pulses, protein+, glutenfree, w/rice]
 
 <!--more-->
 
-to fully benefit from the beans' proteins couple them with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
+as all pulses, beans are a great source of plant-based proteins. to fully benefit from them couple the beans with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
-*quantities for 2 portions.*
+*quantities for 2 portions*
 
 ## ingredients
 ---

@@ -9,7 +9,7 @@ tags: [pulses, tofu, protein+, glutenfree, w/rice]
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
-*quantities for 2 abundant portions.*
+*quantities for 2 abundant portions*
 
 ## ingredients
 ---
