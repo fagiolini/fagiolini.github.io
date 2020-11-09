@@ -11,18 +11,18 @@ tags: [sweets, protein+]
 
  this is a gluten free chocolate cake that doensn't require the use of flour of any kind. the use of cooked quinoa gives it a special and delicious texture.
 
- ## ingredients
- ---
+## ingredients
+---
 
- - quinoa: 300g
- - water: 600g
- - dark chocolate: 200g
- - corn starch: 40g
- - brown sugar: 100g
- - sunflower oil: 60g
- - baking powder: 2 teaspoons
- - vegetable drink: 280g
- - salt: 1 pinch
+- quinoa: 300g
+- water: 600g
+- dark chocolate: 200g
+- corn starch: 40g
+- brown sugar: 100g
+- sunflower oil: 60g
+- baking powder: 2 teaspoons
+- vegetable drink: 280g
+- salt: 1 pinch
 
 ## procedure
 ---
