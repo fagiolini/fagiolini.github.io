@@ -1,10 +1,11 @@
 ---
 layout: post
 title: sweet 'n sour chickpeas or tofu
-tags: [pulses, protein+, glutenfree, w/rice]
+tags: [pulses, tofu, protein+, glutenfree, w/rice]
 ---
 
  <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
+ <img src="../../../images/sweet-sour-tofu.jpeg" width="300">
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
@@ -43,8 +44,6 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 8. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
 
 9.  serve the chickpeas and vegetables on top of the rice.
-
-<img src="../../../images/sweet-sour-tofu.jpeg" width="300">
 
 
 # pilaf rice
