@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sweet 'n sour chickpeas
+title: sweet 'n sour chickpeas or tofu
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
@@ -13,7 +13,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 ## ingredients
 ---
 
-- cooked chickpeas: 220g 
+- cooked chickpeas or plain tofu: 220g 
 - green part of 3 leeks
 - carrots: 2
 - juice of 1 lemon
@@ -29,18 +29,22 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
 
 2. cut the carrots into thin strips. you can use other vegetables of your choice or even mushrooms.
+   
+3. if you are using tofu, cut it in small cubes.
 
-3. if you are accompanying this recipe with pilaf rice, this is a good moment to start cooking it. [find recipe below](#pilaf-rice).
+4. if you are accompanying this recipe with pilaf rice, this is a good moment to start cooking it. [find recipe below](#pilaf-rice).
 
-4. put some extra-virgin olive oil into a frying pan, add leeks and carrots (or other vegetables), with a pinch of salt. cook in parallel to the rice. if it gets too dry add a bit of water.
+5. put some extra-virgin olive oil into a frying pan, add leeks and carrots (or other vegetables), with a pinch of salt. cook in parallel to the rice. if it gets too dry add a bit of water.
 
-5. prepare the sweet and sour sauce: in a glass mix the soy sauce, the lemon juice, the agave syrup/cane sugar, and the cornstarch. 
+6. prepare the sweet and sour sauce: in a glass mix the soy sauce, the lemon juice, the agave syrup/cane sugar, and the cornstarch. 
 
-6. when the vegetables are soft (10 minutes more or less), add the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned chickpeas, after rinsing.
+7. when the vegetables are soft (10 minutes more or less), add the tofu or the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned chickpeas, after rinsing.
 
-7. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
+8. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
 
-8. serve the chickpeas and vegetables on top of the rice.
+9.  serve the chickpeas and vegetables on top of the rice.
+
+<img src="../../../images/sweet-sour-tofu.jpeg" width="300">
 
 
 # pilaf rice
