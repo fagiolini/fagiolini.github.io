@@ -2,6 +2,7 @@
 layout: post
 title: salad w/tempeh or tofu
 excerpt_separator: <!--more-->
+tags: [tofu, protein+, glutenfree]
 ---
 
  <img src="../../../images/tempeh-salad.jpeg" width="300">
