@@ -16,7 +16,7 @@ we all learnt to love a new God during this pandemic, and its name is…banana b
 ## ingredients:
 
 - preferabily ripe bananas: 3
-- all-purpose flour: 260g ->to make it gluten free you can replace the flour with gf oat or oat flour:)
+- all-purpose flour: 260g &rarr; to make it gluten free you can replace the flour with gf oat or oat flour:)
 - dates: 10 
 - water: 200ml
 - baking powder: 16g
@@ -28,8 +28,8 @@ we all learnt to love a new God during this pandemic, and its name is…banana b
 ## procedure:
 1. start by peeling three ripe bananas and putting them in the blender. 
 2. stone 8 large dates, and add them to the rest, along with two teaspoons of apple vinegar, 200 ml of water. at this point blend until you get a dense mixture. 
-3. separately, in a large bowl, pour 2the flour, the baking powder, a teaspoon of cinnamon and half a teaspoon of salt. stir quickly to distribute them well and pour the banana mixture you have just blended, a little at a time, stirring until everything is smooth (and sexy). 
+3. separately, in a large bowl, pour the flour, the baking powder, a teaspoon of cinnamon and half a teaspoon of salt. stir quickly to distribute them well and pour the banana mixture you have just blended, a little at a time, stirring until everything is smooth (and sexy). 
 4. finally, you can add the nuts, or you can opt for the dried fruit you prefer - even chocolate is great… just so you know. 
-5. alright, you are ready to bake! pour the mixture into a mould, our was 12 x28, and if you want it to look fancy you can decorate it with a few oat flakes and a few more chopped walnuts. 
+5. alright, you are ready to bake! pour the mixture into a mould, ours was 12x28, and if you want it to look fancy you can decorate it with a few oat flakes and a few more chopped walnuts. 
 6. bake for 40 minutes, at 170 degrees, in a static oven...and you’re ready to stuff your stomach with this beauty!
 
