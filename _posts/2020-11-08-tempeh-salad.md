@@ -13,7 +13,7 @@ tags: [tofu, protein+, glutenfree]
 
  *quantities for 2 portions.*
 
- ## ingredients
+## ingredients
 ---
 
 - salad of choice (we used gentilina lettuce)
