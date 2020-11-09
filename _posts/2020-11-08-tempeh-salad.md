@@ -34,6 +34,6 @@ tags: [tofu, protein+, glutenfree]
 5. compose your dish: put the salad, then the nutritional yeast, the salt, the balsamic vinegar, the extra-virgin olive oil and, finally, the tempeh or tofu. 
 6. serve with a couple of toasted bread slices.
 
-> to make it even faster, you can use savory packaged tofu, like fumée tofu, that you don't even need to cook.
+> to make it even faster, you can use savory packaged tofu, like smoked tofu, that you don't even need to cook.
 
 
