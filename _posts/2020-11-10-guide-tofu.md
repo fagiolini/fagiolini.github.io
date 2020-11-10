@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [tofu, protein+, glutenfree,]
 ---
 
- <img src="../../../images/tofu.jpeg" width="300">
+ <img src="../../../images/tofu.jpg" width="300">
  
  
  <!--more-->
