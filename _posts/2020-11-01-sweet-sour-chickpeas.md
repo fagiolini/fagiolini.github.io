@@ -8,6 +8,7 @@ tags: [pulses, tofu, protein+, glutenfree, w/rice]
  <figcaption>sweet 'n sour chickpeas</figcaption>
 </figure>
  <img src="../../../images/sweet-sour-tofu.jpeg" width="300">
+ 
  <figcaption>sweet 'n sour tofu</figcaption>
 </figure>
 
