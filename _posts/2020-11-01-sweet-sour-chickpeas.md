@@ -5,12 +5,8 @@ tags: [pulses, tofu, protein+, glutenfree, w/rice]
 ---
 
  <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
- <figcaption>sweet 'n sour chickpeas</figcaption>
-</figure>
  <img src="../../../images/sweet-sour-tofu.jpeg" width="300">
  
- <figcaption>sweet 'n sour tofu</figcaption>
-</figure>
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
