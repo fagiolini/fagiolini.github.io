@@ -2,7 +2,7 @@
 layout: post
 title: lorina's hazelnut cream
 excerpt_separator: <!--more-->
-tags: [sweets]
+tags: [sweets, glutenfree]
 ---
 
  <img src="../../../images/nocciolata-lorina.jpg" width="300">
