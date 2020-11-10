@@ -9,7 +9,7 @@ tags: [tofu, protein+, glutenfree,]
  
  
  <!--more-->
-unknown to many, tofu is a wonderful ingrediend for a vegan diet, thanks to its versatility and to its fabulous protein content. but before starting to integrate it into one's diet and to experiment with some recipes, it's better to get to know it better. 
+unknown to many, tofu is a wonderful ingredient for a vegan diet, thanks to its versatility and to its fabulous protein content. but before starting to integrate it into one's diet and to experiment with some recipes, it's better to get to know it better. 
 
 ## what it is not
 it is often presented as the vegan alternative to cheese: this leads to great disppointments, because in reality it is not similar to cheese at all, and it is not meant to be! the texture is different as well as the taste, so to try to use it as a substitute for cheese will be a terrible idea.
@@ -27,7 +27,7 @@ in most supermarkes, it is easy to find firm plain tofu. it is normally placed i
 *mostly found in organic shops.*
 
 ## how to use
-it is not recommended to taste if by itself: in fact, it is almost completely tasteless. this flaw turns into a great quality when we learn how to cook it.
+it is not recommended to taste plain tofu by itself: in fact, it is almost completely tasteless. this flaw turns into a great quality when we learn how to cook it.
 
 we must think of tofu as a sponge: it perfectly absorbs the flavour of the ingredients we couple it with. 
 
@@ -37,8 +37,8 @@ we must think of tofu as a sponge: it perfectly absorbs the flavour of the ingre
 
 
 ### ... and the best ways to cook it
-- **marinating**:cut your tofu as the first ingredient of your recipe and put it in a bowl with liquid ingredients and spices: soy sauce, lemon juice, sweet 'n sour sauce, olive oil, chili pepper, black pepper, tumeric, curry... literally *anything*! by the time you will have finished cooking the other ingredients, your tofu will have absorbed plenty of flavour from you marinade and then you will just need to add it to your pan!
-- **simply add it to the pan** at the beginning of your preparation: right after you sauté onion and/or garlic in oil, add the tofu and sauté it for a few minutes before adding other ingredients. it will absorb the lovely flavor of the sautéd onion/garlic and, thanks to a bit of frying, make a little crunchy crust. then, add all other ingredients and, once again, by the end of the cooking it will be full of flavour!
+- **marinating**: cut your tofu as the first ingredient of your recipe and put it in a bowl with liquid ingredients and spices: soy sauce, lemon juice, sweet 'n sour sauce, olive oil, chili pepper, black pepper, tumeric, curry... literally *anything*! by the time you will have finished cooking the other ingredients, your tofu will have absorbed plenty of flavour from you marinade and then you will just need to add it to your pan!
+- **simply add it to the pan** at the beginning of your preparation: right after you sauté onion and/or garlic in oil, add the tofu and sauté it for a few minutes before adding other ingredients. it will absorb the lovely flavour of the sautéd onion/garlic and, thanks to a bit of frying, will make a little crunchy crust. then, add all other ingredients and, once again, by the end of the cooking it will be full of flavour!
 - if you like it crusty, you can also **fry it separetely** and then add it to the other ingredients when they are almost ready: it will add a really nice crunchy texture to your dish!
 
 > note: tofu is often full of water. to improve its power of flavour absorption try to press it in paper towel: if you let out some liquid, there will be more room for adding (tastier) liquids to it! but this is really optional, because even whithout pressing it, its spongy feature works amazingly.
