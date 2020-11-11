@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../../../images/chili-beans.jpeg" width="300">
+ <img src="../../../images/chili-beans.jpeg" width="300" style="transform:rotate(270deg);">
 
 <!--more-->
 
