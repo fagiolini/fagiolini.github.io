@@ -39,7 +39,7 @@ add the dry ingredients to the liquid ingredients and knead for a few minutes un
 ---
 
 - spinach (or other leafy vegetable of choice): 500g
-- tofu: 350g
+- [tofu](https://fagiolini.github.io/guide-tofu/): 350g
 - dried tomatoes: 7
 - garlic: 1 clove
 - salt and chili pepper

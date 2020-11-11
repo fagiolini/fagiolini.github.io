@@ -1,14 +1,14 @@
 ---
 layout: post
 title: pilaf rice
-tags: [w/rice, glutenfree]
+tags: [w/rice, guides, glutenfree]
 ---
 
  <img src="../../../images/pilaf-rice.jpg" width="300">
 
 this is a quick, healthy and simple way of cooking rice that is widespread in the middle-east.
 
-enjoy it together with vegetables and tofu or pulses for a complete super-nutricious meal.
+enjoy it together with vegetables and [tofu](https://fagiolini.github.io/guide-tofu/) or pulses for a complete super-nutricious meal.
 
 ## procedure
 ---

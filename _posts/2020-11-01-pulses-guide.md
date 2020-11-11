@@ -2,7 +2,7 @@
 layout: post
 title: guide to pulses
 excerpt_separator: <!--more-->
-tags: [pulses, protein+, glutenfree]
+tags: [pulses, guides, protein+, glutenfree]
 ---
 
 <img src="../../../images/pulses-square.jpg" width="300">

@@ -2,14 +2,18 @@
 layout: post
 title: guide to tofu
 excerpt_separator: <!--more-->
-tags: [tofu, protein+, glutenfree,]
+tags: [tofu, guides, protein+, glutenfree,]
 ---
 
  <img src="../../../images/tofu.jpg" width="300">
  
  
  <!--more-->
-unknown to many, tofu is a wonderful ingredient for a vegan diet, thanks to its versatility and to its fabulous protein content: it is, in fact, made out of soy bean, an amazing pulse. it is also very healthy and very light.
+unknown to many, tofu is an asian product of chinese origin, made out of soy bean. it is a wonderful ingredient for any diet because it is:
+- full of proteins
+- very healthy
+- very light
+- versatile
 
 it is sometimes mistakenly presented as the vegan alternative to cheese, from which it is actually very different. in reality, it is a plain taste ingredient. this means one needs to learn how to get the best out of it: let's see how!
 
@@ -20,7 +24,7 @@ we must think of tofu as a sponge: it perfectly absorbs the flavour of the ingre
 
 ## how to prepare it...
 
-- **cut it** in thin slices or small cubes.
+- **cut it** in slices or small cubes.
   
 - **crumble it** with your hands: this preparation is perfect if you are not a fan of its texture or if you simply want to add a source of protein to your dish without giving it a leading role.
 

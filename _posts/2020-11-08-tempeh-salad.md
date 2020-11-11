@@ -17,7 +17,7 @@ tags: [tofu, protein+, glutenfree]
 ---
 
 - salad of choice (we used gentilina lettuce)
-- tempeh or tofu: 100g
+- tempeh or [tofu](https://fagiolini.github.io/guide-tofu/): 100g
 - soy sauce: 3 tablespoons
 - nutritional yeast (optional): 2 tablespoons
 - balsamic vinegar (optional)
@@ -29,7 +29,7 @@ tags: [tofu, protein+, glutenfree]
 
 1. cut and wash your lettuce.
 2. cut the tempeh in small pieces. if you use plain tofu, cut it in thin slices.
-3. warm some extra-virgin olive oil in a pan, add the tempeh or tofu and cook until golden.
+3. warm some extra-virgin olive oil in a pan, add the tempeh or [tofu](https://fagiolini.github.io/guide-tofu/) and cook until golden.
 4. add the soysauce to the pan and cook for another minute, until the soy sauce dries and the tempeh/tofu becomes dark.
 5. compose your dish: put the salad, then the nutritional yeast, the salt, the balsamic vinegar, the extra-virgin olive oil and, finally, the tempeh or tofu. 
 6. serve with a couple of toasted bread slices.

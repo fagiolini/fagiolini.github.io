@@ -5,8 +5,9 @@ tags: [pulses, tofu, protein+, glutenfree, w/rice]
 ---
 
  <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
+ <figcaption>sweet 'n sour chickpea</figcaption>
+</figure>
  <img src="../../../images/sweet-sour-tofu.jpeg" width="300">
- 
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
@@ -15,7 +16,7 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 ## ingredients
 ---
 
-- cooked chickpeas or plain tofu: 220g 
+- cooked chickpeas or plain [tofu](https://fagiolini.github.io/guide-tofu/): 220g 
 - green part of 3 leeks
 - carrots: 2
 - juice of 1 lemon
