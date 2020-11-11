@@ -9,21 +9,23 @@ tags: [tofu, protein+, glutenfree,]
  
  
  <!--more-->
-unknown to many, tofu is a wonderful ingredient for a vegan diet, thanks to its versatility and to its fabulous protein content. but before starting to integrate it into one's diet and to experiment with some recipes, it's better to get to know it better. 
+unknown to many, tofu is a wonderful ingredient for a vegan diet, thanks to its versatility and to its fabulous protein content. it is also very healthy and very light.
+
+ being a plain taste ingredient, you need to learn how to get the best out of it. let's see how!
 
 ## what it is not
-it is often presented as the vegan alternative to cheese: this leads to great disppointments, because in reality it is not similar to cheese at all, and it is not meant to be! the texture is different as well as the taste, so to try to use it as a substitute for cheese will be a terrible idea.
+it is often presented as the vegan alternative to cheese: this leads to great disappointments, because in reality it is not similar to cheese at all, and it is not meant to be! the texture is different as well as the taste, so to try to use it as a substitute for cheese will be a terrible idea.
 
 ## what it is
 tofu is an asian product of chinese origin. it is made by the curdling of soy bean, an amazing pulse. in fact soy, differently from all other pulses (the best vegan source of protein), conteins complete proteins: this means that we don't need to couple it with anything else to fully benefit from its protein content.
 
 ### its many shapes and where to find
-in most supermarkes, it is easy to find firm plain tofu. it is normally placed in refrigerated compartments, but you might also find it in nonrefrigerated compartments too. also, you might find cheaper options and bigger quantities in ethnic shops and (surprinsigly enough) in organic shops. we normally use that one in our recipes. however, tofu has different shapes that you may find. here are the most widespread:
-- **silken tofu**: it is a softer version, that tends to get undone, but it is perfect for soups (like [this one](https://fagiolini.github.io/ramen/)). 
+it is easy to find firm plain tofu, the one we normally use in our recipes, in most supermarkets. it is normally placed in refrigerated compartments, but you might also find it in nonrefrigerated compartments too. also, you might find cheaper options and bigger quantities in ethnic shops and (surprinsigly enough) in organic shops.  however, tofu has different shapes that you may find. here are the most widespread:
+- **silken tofu**: it is a softer version, which is perfect for soups (like [this one](https://fagiolini.github.io/ramen/)), but is less suitable for other preparations because it tends to get undone. 
 *mostly found in ethnic shops.*
 - **dry tofu**: it is darker, very firm, with a stronger flavour and a lower power of flavour absorption. 
  *mostly found in ethnic shops.*
-- **flavoured tofu**: like smoked tofu, or tomato-flavoured tofu. it is perfect for quick meals: as a filling for sadwiches or as a topping for salads. it doesn't require any preparation. the taste varies a lot according to the brand, so be careful with your choices: [this is our favourite](https://www.taifun-tofu.de/en) and it is found all around europe, but it is a bit expensive.
+- **flavoured tofu**: like smoked tofu, or tomato-flavoured tofu. it is perfect for quick meals because it's already packed with flavour without requiring any preparation. you cause it as a filling for sadwiches or as a topping for salads. the taste varies a lot according to the brand, so be careful with your choices: [this is our favourite](https://www.taifun-tofu.de/en) and it is found all around europe, but it is a bit expensive.
 *mostly found in organic shops.*
 
 ## how to use
@@ -43,4 +45,4 @@ we must think of tofu as a sponge: it perfectly absorbs the flavour of the ingre
 
 > note: tofu is often full of water. to improve its power of flavour absorption try to press it in paper towel: if you let out some liquid, there will be more room for adding (tastier) liquids to it! but this is really optional, because even whithout pressing it, its spongy feature works amazingly.
 
-being an asian ingredients, tofu is perfectly coupled with asian flavours, but don't underestimate its possibilities in traditional western recipes either! [find here our favourite tofu recipes.](https://fagiolini.github.io/tags/tofu/)
+being an asian ingredient, tofu is perfectly coupled with asian flavours, but don't underestimate its possibilities in traditional western recipes either! [find here our favourite tofu recipes.](https://fagiolini.github.io/tags/tofu/)
