@@ -11,12 +11,15 @@ tags: [tofu, protein+]
  <!--more-->
 
 this savory tart is very tasty and nutritious, thanks to the use of green leaf vegetables and to the proteins provided by the tofu. 
-you can modify the filling as you wish: change the spinach with zucchini or other green leaf veggies (such as beets or turnip tops), add more tofu (up to 500g!) or change it with pulses (we tried with fava beans and loved it), change the dired tomatoes with capers or simply add them if you wish! 
+you can modify the filling as you wish: change the spinach with zucchini or other green leaf veggies (such as beets or turnip tops), add more tofu (up to 500g!) or change it with pulses (we tried with fava beans and loved it), change the dried tomatoes with capers or simply add them if you wish! 
 the recipe we provide here is just a starting point for your creativity.
 
 *the whole tart makes 4 full portions*
 
 # for the tart dough
+we chose to make our own tart dough: it is super easy and fast to make. but feel free to use packaged dough - most of the ones you find in supermarkets are actually vegan! in this case you will need two rolls, one for the bottom and one for the cover. go straight to the [filling](#for-the-filling).
+
+if you want to try and make your dough here is our recipe:
 
 ## ingredients
 ---
