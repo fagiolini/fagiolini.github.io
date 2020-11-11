@@ -5,21 +5,21 @@ excerpt_separator: <!--more-->
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
 
- <img src="../../../images/chili-beans.jpg" width="300">
+ <img src="../../../images/chili-beans.jpeg" width="300">
 
 <!--more-->
 
 as all pulses, beans are a great source of plant-based proteins. to fully benefit from them couple the beans with corn tortillas or with some rice! [find the recipe below](#pilaf-rice). 
 
-*quantities for 2 portions*
+*quantities for 2 abundant portions*
 
 ## ingredients
 ---
 
-- precooked beans (red, black, or kidney): 250g
-- onion: 1
-- bell peppers (any colour): 2
-- tomato sauce or purée: 350g
+- precooked beans (red, black, or kidney): 400g
+- onion: 1/2
+- bell pepper (any colour): 1
+- tomato sauce or purée: 250g
 - tomato concentrate: 1 tablespoon
 - chili pepper
 - salt
