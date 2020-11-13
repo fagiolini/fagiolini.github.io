@@ -15,7 +15,7 @@ we all learnt to love a new God during this pandemic, and its name is…banana b
 
 ## ingredients:
 
-- preferabily ripe bananas: 3
+- preferably ripe bananas: 3
 - all-purpose flour: 260g &rarr
 - dates: 10 
 - water: 200ml
