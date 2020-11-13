@@ -2,7 +2,7 @@
 layout: post
 title: banana bread
 excerpt_separator: <!--more-->
-tags: [glutenfree, sweets]
+tags: [sweets]
 ---
 
  <img src="../../../images/banana-bread.jpeg" width="300">
@@ -11,12 +11,12 @@ tags: [glutenfree, sweets]
  <!--more-->
 
 
-we all learnt to love a new God during this pandemic, and its name is…banana bread! This is the easiest, quickest and healthiest (but still tastiest) recipe we have ever tried. the bb is the absolute winner: you can’t go wrong with it and you can vary it at your pleasure. you basically throw everything in a blender, and you’re halfway there! for this particularly recipe we chose to use dates and bananas as the only sweeteners for the bread but do not worry: it’s gonna be glorious.
+we all learnt to love a new God during this pandemic, and its name is…banana bread! 
 
 ## ingredients:
 
-- preferabily ripe bananas: 3
-- all-purpose flour: 260g &rarr; to make it gluten free you can replace the flour with gf oat or oat flour:)
+- preferably ripe bananas: 3
+- all-purpose flour: 260g &rarr
 - dates: 10 
 - water: 200ml
 - baking powder: 16g
