@@ -19,11 +19,12 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
 1. soak the dry beans (any kind) or chickpeas in abundant water for at least one night, we normally put them in water in the evening and cook them the afternoon of the next day. their volume will then have at least doubled.
 2. rinse them well.
 3. put them in a pot with abundant cold water and warm them up. when the water boils, lower the heat and cover. after one hour taste them: the exact time will depend on their size and on your taste. they may cook for up to 1 hour and a half.
+   >note: if your beans or chickpeas are decorticated, 20 minutes should be enough.
 4. add salt to the water when they are almost ready.
 5. drain and rinse the pulses when desired texture is reached.
 6. divide the cooked pulses in portions (single, double, for the family…), put them in containers appropriate for freezing (bags, tupperwares, jars - if they are made of glass do not fill them entirely because their volume will expand and the jar might break!) and store them in the freezer.
 7. when needed, defrost them: you can either remove them from the freezer the day before and keep them in the fridge to defrost slowly or defrost them in the microwave to have them ready to eat in a few minutes!
-> note: you can also find decorticated chickpeas that we sometimes use in our recipes. they are smaller and are faster to cook (around 20 minutes in boiling water, no soaking required).
+
 
 # lentils
 ---
