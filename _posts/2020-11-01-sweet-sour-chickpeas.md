@@ -3,9 +3,15 @@ layout: post
 title: sweet 'n sour chickpeas or tofu
 tags: [pulses, tofu, protein+, glutenfree, w/rice]
 ---
-
+<figure class="image">
  <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
+  <figcaption>sweet 'n sour chickpeas.</figcaption>
+</figure>
+
+<figure class="image">
  <img src="../../../images/sweet-sour-tofu.jpeg" width="300">
+  <figcaption>sweet 'n sour tofu.</figcaption>
+</figure>
 
 to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
 
