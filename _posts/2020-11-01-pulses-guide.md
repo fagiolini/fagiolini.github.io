@@ -26,9 +26,9 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
 7. when needed, defrost them: you can either remove them from the freezer the day before and keep them in the fridge to defrost slowly or defrost them in the microwave to have them ready to eat in a few minutes!
    
    <figure class="image">
-   <img src="../../../images/chili-freeze.jpg" width="300">
- <figcaption>our bags of chili beans ready to be freezed</figcaption>
-</figure>
+   <img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
+   <figcaption>our bags of chili beans ready to be freezed</figcaption>
+   </figure>
 
 # lentils
 ---
