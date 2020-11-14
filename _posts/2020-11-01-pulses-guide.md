@@ -24,7 +24,11 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
 5. drain and rinse the pulses when desired texture is reached.
 6. divide the cooked pulses in portions (single, double, for the family…), put them in containers appropriate for freezing (bags, tupperwares, jars - if they are made of glass do not fill them entirely because their volume will expand and the jar might break!) and store them in the freezer.
 7. when needed, defrost them: you can either remove them from the freezer the day before and keep them in the fridge to defrost slowly or defrost them in the microwave to have them ready to eat in a few minutes!
-
+   
+   <figure class="image">
+   <img src="../../../images/chili-freeze.jpg" width="300">
+ <figcaption>our bags of chili beans ready to be freezed</figcaption>
+</figure>
 
 # lentils
 ---

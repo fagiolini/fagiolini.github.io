@@ -37,6 +37,12 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
 7. cook on medium heat for a few more minutes.
 8. serve with tortillas or rice, or even tortillas filled with chili beans *and* rice! 
 
+   <figure class="image">
+   <img src="../../../images/chili-freeze.jpg" width="300">
+ <figcaption>our bags of chili beans ready to be freezed: each bag is a double abundant portion and weights 700g more or less.</figcaption>
+</figure>
+
+
 # pilaf rice
 ---
 
