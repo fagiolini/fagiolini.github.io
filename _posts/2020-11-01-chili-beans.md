@@ -4,8 +4,7 @@ title: chili beans
 excerpt_separator: <!--more-->
 tags: [pulses, protein+, glutenfree, w/rice]
 ---
-
- <img src="../../../images/chili-beans.jpeg" width="300" style="transform:rotate(270deg);">
+   <img src="../../../images/chili-beans.jpeg" width="300" style="transform:rotate(270deg);">
 
 <!--more-->
 
@@ -38,10 +37,9 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
 8. serve with tortillas or rice, or even tortillas filled with chili beans *and* rice! 
 
    <figure class="image">
-   <img src="../../../images/chili-freeze.jpg" width="300">
- <figcaption>our bags of chili beans ready to be freezed: each bag is a double abundant portion and weights 700g more or less.</figcaption>
-</figure>
-
+   <img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
+   <figcaption>our bags of chili beans ready to be freezed</figcaption>
+   </figure>
 
 # pilaf rice
 ---
