@@ -14,7 +14,9 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
+    {% if site.google_analytics and jekyll.environment == 'production' %}
     {% include analytics.html %}
+    {% endif %}
   </head>
 
   <body>
