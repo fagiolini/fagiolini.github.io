@@ -6,7 +6,7 @@ tags: [protein+, w/rice]
 ---
 ---
 
- <img src="../../../images/lentil-rice.jpeg" width="300">
+ <img src="../../../images/lentil-rice.jpg" width="300">
  
  <!--more-->
 
