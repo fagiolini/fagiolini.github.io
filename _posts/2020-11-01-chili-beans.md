@@ -38,7 +38,7 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
 
    <figure class="image">
    <img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
-   <figcaption>our bags of chili beans ready to be freezed</figcaption>
+   <figcaption>our bags of chili beans ready to be freezed, each conteins 2 portions, approximately 700g of chili</figcaption>
    </figure>
 
 # pilaf rice
