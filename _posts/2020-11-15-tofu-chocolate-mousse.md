@@ -2,7 +2,7 @@
 layout: post
 title: tofu chocolate mousse
 excerpt_separator: <!--more-->
-tags: [protein+, sweet]
+tags: [protein+, sweet, tofu]
 ---
 ---
 
@@ -17,7 +17,7 @@ tags: [protein+, sweet]
 ---
 
 - dark chocolate: 70g
-- silken tofu: 170g
+- silken [tofu](https://fagiolini.github.io/guide-tofu/): 170g
 - sugar/any other sweetener to taste
 - nuts or fresh fruit to garnish
 
