@@ -4,7 +4,7 @@ title: lentil curry rice
 excerpt_separator: <!--more-->
 tags: [protein+, w/rice]
 ---
----
+
 
  <img src="../../../images/lentil-rice.jpg" width="300">
  
