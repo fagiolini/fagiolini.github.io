@@ -26,7 +26,7 @@ suprising as it seems, these brownies are made with beans, but do not worry: you
 ## procedure
 ---
 
-1. in a food processor (or a good blender) mix all the ingredients except for the chocolate (beans, oats, sugar, cocoa, oil, baking powder and vanilla extract). mix very well: you should end up with a smooth and thick brown batter.
+1. in a food processor (or a good blender) mix all the ingredients except for the chocolate (beans, oats, sugar, cocoa, oil, baking powder and vanilla extract). mix very well: you should end up with a smooth and thick brown batter, with no recognizable bits of bean.
 2. cut the dark chocolate in small pieces
 3. add them to the batter and mix with a spoon.
 4. pour the batter int a mould, we used a round mould (diameter 22cm), but you can use a square mould 20x20cm (or smaller if you like thicker brownies). spread it well in your mould with the help of a spoon.
