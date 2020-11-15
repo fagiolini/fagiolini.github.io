@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [sweets, protein+]
 ---
 
- <img src="../images/quinoa-cake.jpeg" width="300">
+ <img src="../../../images/quinoa-cake.jpeg" width="300">
  
  <!--more-->
 
