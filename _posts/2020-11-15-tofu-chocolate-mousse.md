@@ -4,7 +4,6 @@ title: tofu chocolate mousse
 excerpt_separator: <!--more-->
 tags: [protein+, sweet, tofu]
 ---
----
 
  <img src="../../../images/chocolate-tofu-mousse.jpg" width="300">
  
