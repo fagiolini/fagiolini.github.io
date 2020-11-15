@@ -2,7 +2,7 @@
 layout: post
 title: quinoa chocolate cake
 excerpt_separator: <!--more-->
-tags: [sweets, protein+]
+tags: [sweets, protein+, glutenfree]
 ---
 
  <img src="../../../images/quinoa-cake.jpeg" width="300">
