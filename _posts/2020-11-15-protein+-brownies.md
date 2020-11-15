@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [sweets, pulses, protein+, glutenfree]
 ---
 
- <img src="../../../images/brownies.jpeg" width="300"">
+ <img src="../../../images/brownies.jpeg" width="300">
 
 <!--more-->
 
