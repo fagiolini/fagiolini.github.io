@@ -6,7 +6,7 @@ tags: [pulses, protein+, ultrafast, glutenfree, w/rice]
 ---
 
 
- <img src="../../../images/lentil-rice.jpg" width="300">
+ <img src="../../../images/lentil-curry-rice.jpeg" width="300">
  
  <!--more-->
 
@@ -18,8 +18,9 @@ tags: [pulses, protein+, ultrafast, glutenfree, w/rice]
 ---
 
 - oil of choice
-- garlic: 1 head
-- same quantity of cooked [pilaf rice](#pilaf-rice) and cooked lentils
+- garlic: 1 clove
+- cooked [pilaf rice](#pilaf-rice) : 160g 
+- cooked lentils (you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned lentils, after rinsing): 400g 
 - curry: a teaspoon
 - coriander and lemon (optional) to make it even tastier and more colorful
 
