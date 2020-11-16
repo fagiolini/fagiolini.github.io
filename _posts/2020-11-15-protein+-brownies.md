@@ -14,7 +14,7 @@ suprising as it seems, these brownies are made with beans, but do not worry: you
 ## ingredients
 ---
 
-- beans (any kind, this time we used cannellini while beans): 250g
+- cooked beans (any kind, this time we used cannellini white beans. you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned beans, after rinsing): 250g
 - rolled oats or oat flour: 40g (if you are making it gluten free, make sure your oats are gf)
 - sugar (or other sweetner): 60g
 - cocoa powder: 10g
@@ -27,7 +27,7 @@ suprising as it seems, these brownies are made with beans, but do not worry: you
 ---
 
 1. if you are using rolled oats, blend them into a powder.
-2. in a food processor (or a good blender) mix all the ingredients except for the chocolate (beans, oat flour, sugar, cocoa, oil, baking powder and vanilla extract). mix very well: you should end up with a smooth and thick brown batter, with no recognizable bits of bean.
+2. in a food processor (or a good blender) mix all the ingredients except for the chocolate (cooked beans, oat flour, sugar, cocoa, oil, baking powder and vanilla extract). mix very well: you should end up with a smooth and thick brown batter, with no recognizable bits of bean.
 3. cut the dark chocolate in small pieces
 4. add them to the batter and mix with a spoon.
 5. pour the batter int a mould, we used a round mould (diameter 22cm), but you can use a square mould 20x20cm (or smaller if you like thicker brownies). spread it well in your mould with the help of a spoon.
