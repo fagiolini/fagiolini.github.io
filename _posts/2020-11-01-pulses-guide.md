@@ -25,15 +25,16 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
 6. divide the cooked pulses in portions (single, double, for the family…), put them in containers appropriate for freezing (bags, tupperwares, jars - if they are made of glass do not fill them entirely because their volume will expand and the jar might break!) and store them in the freezer.
 7. when needed, defrost them: you can either remove them from the freezer the day before and keep them in the fridge to defrost slowly or defrost them in the microwave to have them ready to eat in a few minutes!
    
-   <figure class="image">
-   <img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
-   <figcaption>our bags of chili beans ready to be freezed, each bag conteins roghly 700g, 2 abundant portions</figcaption>
-   </figure>
+<figure class="image">
+<img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
+<figcaption>our bags of chili beans ready to be freezed, each bag conteins roghly 700g, 2 abundant portions</figcaption>
+</figure>
 
-  <figure class="image">
-   <img src="../../../images/chickpeas-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
-   <figcaption>our bags of chickpeas ready to be freezed, each bag conteins between 250 and 300g, 2 portions to add to our recipes</figcaption>
-   </figure>
+<figure class="image">
+<img src="../../../images/chickpeas-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
+<figcaption>our bags of chickpeas ready to be freezed, each bag conteins between 250 and 300g, 2 portions to add to our recipes</figcaption>
+</figure>
+
 # lentils
 ---
 
