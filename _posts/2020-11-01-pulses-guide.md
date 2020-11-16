@@ -27,9 +27,13 @@ we prefer to use dry pulses then canned ones: they are cheaper, they have less p
    
    <figure class="image">
    <img src="../../../images/chili-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
-   <figcaption>our bags of chili beans ready to be freezed</figcaption>
+   <figcaption>our bags of chili beans ready to be freezed, each bag conteins roghly 700g, 2 abundant portions</figcaption>
    </figure>
 
+  <figure class="image">
+   <img src="../../../images/chickpeas-freeze.jpeg" style="width:300px;height:300px;overflow:hidden">
+   <figcaption>our bags of chickpeas ready to be freezed, each bag conteins between 250 and 300g, 2 portions to add to our recipes</figcaption>
+   </figure>
 # lentils
 ---
 
