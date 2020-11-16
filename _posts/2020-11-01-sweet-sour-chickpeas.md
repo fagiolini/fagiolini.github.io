@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sweet 'n sour chickpeas or tofu
-tags: [pulses, tofu, protein+, glutenfree, w/rice]
+tags: [pulses, tofu, protein+, ultrafast, glutenfree, w/rice]
 ---
 <figure class="image">
  <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">

@@ -2,7 +2,7 @@
 layout: post
 title: protein+ brownies
 excerpt_separator: <!--more-->
-tags: [sweets, pulses, protein+, glutenfree]
+tags: [sweets, pulses, protein+, ultrafast, glutenfree]
 ---
 
  <img src="../../../images/brownies.jpeg" width="300">

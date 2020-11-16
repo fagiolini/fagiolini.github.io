@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 tags: [tofu, protein+]
 ---
 
- <img src="../../../images/savory-tart.jpeg" width="300">
+ <img src="../../../images/savory-tart-blended.jpeg" width="300">
  
  <!--more-->
 
@@ -55,7 +55,7 @@ add the dry ingredients to the liquid ingredients and knead for a few minutes un
 3. in the meantime, crumble the tofu with your hands.
 4. chop the dried tomatoes in small pieces.
 5. when the spinach is cooked (10 minutes) add the tofu and the chopped dried tomatoes.
-6. optional: you can mix everything in a blender to have a more compact filling. 
+6. optional: you can mix everything in a blender to have a more compact filling. this is what we have done in the cover picture, otherwise the result will be more similar to the picture below. 
 7. take 2/3 of the previously made dough and roll it out in a baking pan covered with parchment paper. put the dough directly in the pan and press it with you fingers until you have covered the bottom of the pan. press it on the sides too.
 8. put the filling inside.
 9. roll out the remaing 1/3 of dough on parchment paper. it should be very elastic and easy to roll out with your hands.
@@ -63,3 +63,8 @@ add the dry ingredients to the liquid ingredients and knead for a few minutes un
 11. pierce the surface with a fork (it will let the steam go out so your tart will not be wet and will cook faster).
 12. cook for half an hour in 180° C pre-heated ventilated oven.
 13. remove from the oven when the dough is golden and crunchy.
+
+<figure class="image">
+ <img src="../../../images/savory-tart.jpeg" width="300">
+  <figcaption>final result without blending the filling</figcaption>
+</figure>

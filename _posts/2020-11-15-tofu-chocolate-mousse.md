@@ -2,7 +2,7 @@
 layout: post
 title: tofu chocolate mousse
 excerpt_separator: <!--more-->
-tags: [protein+, sweet, tofu]
+tags: [sweets, tofu, potein+, ultrafast, glutenfree]
 ---
 
  <img src="../../../images/chocolate-tofu-mousse.jpg" width="300">

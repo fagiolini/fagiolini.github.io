@@ -2,7 +2,7 @@
 layout: post
 title: lentil curry rice
 excerpt_separator: <!--more-->
-tags: [protein+, w/rice]
+tags: [pulses, protein+, ultrafast, glutenfree, w/rice]
 ---
 
 
@@ -19,7 +19,7 @@ tags: [protein+, w/rice]
 
 - oil of choice
 - garlic: 1 head
-- same quantity of cooked [pilaf rice] (#pilaf-rice) and cooked lentils
+- same quantity of cooked [pilaf rice](#pilaf-rice) and cooked lentils
 - curry: a teaspoon
 - coriander and lemon (optional) to make it even tastier and more colorful
 
