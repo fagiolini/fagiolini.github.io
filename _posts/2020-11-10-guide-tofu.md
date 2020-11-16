@@ -45,7 +45,7 @@ being an asian ingredient, tofu is perfectly coupled with asian flavours, but do
 
 it is easy to find firm plain tofu, the one we normally use in our recipes, in most supermarkets. it is normally placed in refrigerated compartments, but you might also find it in nonrefrigerated compartments too. note that you might find cheaper options and bigger quantities in ethnic shops and (surprinsigly enough) in organic shops.  however, tofu has different shapes that you may find. here are the most widespread:
 
-- **silken tofu**: it is a softer version, which is perfect for soups (like [this one](https://fagiolini.github.io/ramen/)), but is less suitable for other preparations because it tends to get undone. 
+- **silken tofu**: it is a softer version, which is perfect for soups (like [this one](https://fagiolini.github.io/ramen/)), or even desserts (check [this one](https://fagiolini.github.io/tofu-chocolate-mousse/) out!) but is less suitable for other preparations because it tends to get undone. 
 *mostly found in ethnic shops.*
 
 - **dry tofu**: it is darker, very firm, with a stronger flavour and a lower power of flavour absorption. 
