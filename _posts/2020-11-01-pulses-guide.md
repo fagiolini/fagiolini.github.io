@@ -11,7 +11,7 @@ tags: [pulses, guides, protein+, glutenfree]
 
 pulses are an amazing source of plant-based protein (to fully benefit of which always remember to couple them with some cereals, like rice or pasta).
 
-we prefer to use dry pulses then canned ones: they are cheaper, they have less packaging, and you can choose the texture you prefer (we often find canned pulses too soft for our taste). they are very easy to cook, but it takes a long time: we usually cook a lot of them at once (1kg of dry pulses) and then freeze them in bags of two abundant portions (between 200g and 250g of cooked pulses).
+we prefer to use dry pulses than canned ones: they are cheaper, they have less packaging, and you can choose the texture you prefer (we often find canned pulses too soft for our taste). they are very easy to cook, but it takes a long time: we usually cook a lot of them at once (1kg of dry pulses) and then freeze them in bags of two abundant portions (between 200g and 250g of cooked pulses).
 
 # beans and chickpeas
 ---
