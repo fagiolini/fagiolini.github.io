@@ -56,6 +56,7 @@ they are poor in all macronutrients and have a very low specific calorie intake,
     <img src="../../../images/shirataki-noodles.jpg" width="180">
 
 > fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
+
 # miso paste
 
 when cooking asian dishes, especially **soups**, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable **stock**, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
