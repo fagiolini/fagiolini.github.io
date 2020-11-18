@@ -24,10 +24,12 @@ they are usually prepared with water and flour. unlike pasta noodles, they are m
 
 there are various types of noodles, but here are the two main types of noodles that can be switched up among all the recipes, we will then go in deeper with the other kinds. these two are:
 1.	*rice “linguini”*: best used in stir fries like pad thai.   
-<img src="../../../images/rice-linguini.jpg" width="300">
+
+<img src="../../../images/rice-linguini.jpg" width="180">
 
 2.	*rice vermicelli*: great in soups and need a very short soaking time in hot water before using.
- <img src="../../../images/rice-vermicelli.jpg" width="300">
+
+<img src="../../../images/rice-vermicelli.jpg" width="180">
 
 being made of rice they are easier to cook and less chewy than the soy ones.
 
