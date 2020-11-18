@@ -32,7 +32,6 @@ there are various types of noodles, but here are the two main types of noodles t
 
     <img src="../../../images/rice-vermicelli.jpg" width="180">
 
-being made of rice they are easier to cook and less chewy than the soy ones.
 
 now, if you really want to be a professional cook, here’s more about noodles: 
 
@@ -52,16 +51,17 @@ now, if you really want to be a professional cook, here’s more about noodles:
 
 5.	__*shirataki noodles*__: they are made from the root of konjac, a native plant of the asian subtropical temperate zone.
 they are poor in all macronutrients and have a very low specific calorie intake, therefore particularly recommended in all diets based on a limited carbohydrate intake as well as those for diabetics, but not generally recommended.
-> fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
+
 
     <img src="../../../images/shirataki-noodles.jpg" width="180">
 
+> fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
 # miso paste
 
 when cooking asian dishes, especially **soups**, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable **stock**, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
 
 not only does miso add a savory element to your dish, it’s also good for you. because it’s a fermented seasoning, miso paste contains probiotics, healthy bacteria which may boost your immunity, promote a healthier gut and help alleviate some of the symptoms of depression and anxiety.
-<img src="../../../images/miso-soup.jpg" width="180">
+<img src="../../../images/miso-paste.jpg" width="180">
 
 # soy sauce
 
