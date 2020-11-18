@@ -39,29 +39,30 @@ now, if you really want to be a professional cook, here’s more about noodles:
 
 2.	__*soy spaghetti*__ (or vermicelli): they’re korean and also called glass noodles (see pic) or mungo bean noodles. more consistent and elastic than rice noodles, they should be hydrated with boiling water before using them in **soups**, **spring rolls** or jumping in the **wok**.
 
- <img src="../../../images/soy-spaghetti.jpg" width="300">
+    <img src="../../../images/soy-spaghetti.jpg" width="180">
 
 3.	__*udon*__: japanese noodles made of wheat, that may be found fresh or dried. to make them even better they should be soaked before using them in recipes.
 
- <img src="../../../images/udon-noodles.jpg" width="300">
+    <img src="../../../images/udon-noodles.jpg" width="180">
 
 4.	__*instant ramen noodles*__: those of american tv shows. they are both precooked and flavored. they are often sold in plastic packages that also contain a soup preparation, just add some hot water first and let it rest for a few minutes to taste them.
 
- <img src="../../../images/ramen-noodles.jpg" width="300">
+    <img src="../../../images/ramen-noodles.jpg" width="180">
 
 5.	__*shirataki noodles*__: they are made from the root of konjac, a native plant of the asian subtropical temperate zone.
 they are poor in all macronutrients and have a very low specific calorie intake, therefore particularly recommended in all diets based on a limited carbohydrate intake as well as those for diabetics, but not generally recommended.
 
-fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
+    fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
 
- <img src="../../../images/shirataki-noodles.jpg" width="300">
+    <img src="../../../images/shirataki-noodles.jpg" width="180">
 
 # miso paste
 
-when cooking asian dishes, especially soups, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable stock, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
+when cooking asian dishes, especially **soups**, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable **stock**, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
 
 not only does miso add a savory element to your dish, it’s also good for you. because it’s a fermented seasoning, miso paste contains probiotics, healthy bacteria which may boost your immunity, promote a healthier gut and help alleviate some of the symptoms of depression and anxiety.
- <img src="../../../images/miso-soup.jpg" width="300">
+
+    <img src="../../../images/miso-soup.jpg" width="180">
 
 # soy sauce
 
@@ -71,16 +72,19 @@ soy sauce can be added when cooking stews or soups. It's a basic way of building
 
 there are hundreds of varieties of soy sauce that are available on the market today. these varieties depend on the ingredients used, the method used to create the sauce, and the region in which it is made. here are the main categories:
 
-1.	*light soy sauce* is the thin, brown liquid that we mostly refer to as regular soy sauce. it is a good all-purpose seasoning and condiment.
- <img src="../../../images/light-soy-sauce.jpg" width="300">
+1.	***light soy sauce*** is the thin, brown liquid that we mostly refer to as regular soy sauce. it is a good all-purpose seasoning and condiment.
 
-2.	*dark soy sauce* has had molasses or caramel added after the brewing process, which thickens the sauce slightly and produces a sweeter, more complex flavor. it’s very strong flavoured and kind of hard to measure, which is why we never use it (nor suggest it :)
-<img src="../../../images/dark-soy-sauce.jpg" width="300">
+    <img src="../../../images/light-soy-sauce.jpg" width="180">
 
-3.	*low-sodium soy sauce* is suggested for people watching their salt intake. 
-<img src="../../../images/lowsodium-soy-sauce.jpg" width="300">
+2.	***dark soy sauce*** has had molasses or caramel added after the brewing process, which thickens the sauce slightly and produces a sweeter, more complex flavor. it’s very strong flavoured and kind of hard to measure, which is why we never use it (nor suggest it)
 
-4. *tamari sauce* is a japanese soy sauce that is made with only soybeans and no wheat or other grains. it has a very clean flavor and is favored by those who follow a wheat- or gluten-free diet.
+    <img src="../../../images/dark-soy-sauce.jpg" width="180">
+
+3.	***low-sodium soy sauce*** is suggested for people watching their salt intake. 
+
+    <img src="../../../images/lowsodium-soy-sauce.jpg" width="180">
+
+4. ***tamari sauce*** is a japanese soy sauce that is made with only soybeans and no wheat or other grains. it has a very clean flavor and is favored by those who follow a wheat- or gluten-free diet.
 
 # coconut milk  
 
@@ -93,8 +97,9 @@ coconut products have burst into popularity over the last few years, there are m
     - **“low-fat”** or “light” coconut milk, which is simply a watered down version. we suggest to avoi it: it’s usually the same price as the regular stuff, but you’re getting more water than coconut! if you’d like to reduce the fat in your recipes, simply add less, and replace some of it with water yourself.
     - **thick** coconut milk on the other hand, often labeled coconut cream (not to confuse it with “cream of coconut,” which has added sugar), has the highest amount of fat and a thick consistency similar to yogurt.
   
-    coconut milk is usually availabe in cans. if we just need a little bit in a recipe you can store it in an air-tight container but make sure to eat it in the following days (because of its high fat content, it can go rancid quickly. if you do have some left over and don’t want to use it right away, you can put it in the freezer for longer term storage). 
-    <img src="../../../images/coconut-milk.jpg" width="300">
+    coconut milk is usually availabe in cans. if we just need a little bit in a recipe you can store it in an air-tight container but make sure to eat it in the following days (because of its high fat content, it can go rancid quickly. if you do have some left over and don’t want to use it right away, you can put it in the freezer for longer term storage).
+
+    <img src="../../../images/coconut-milk.jpg" width="180">
 
 2. ***coconut water***: it's the liquid that comes from non-mature coconuts. because it doesn’t include the coconut flesh, coconut water is much lower in fat and calories, and more suitable for drinking than for cooking. 
  
@@ -104,4 +109,5 @@ coconut products have burst into popularity over the last few years, there are m
 # shriracha sauce
 
 shriracha is a **hot** and **tangy** sauce originating from thailand that is typically eaten with seafood or used as a dipping sauce. made from a paste of chillis, garlic, vinegar, sugar and salt, sriracha gives savoury dishes a kick. nowadays people also drizzle some of it on avocado toasts and so on, because it is very flavourful and hot.
-<img src="../../../images/sriracha-sauce.jpg" width="300">
+
+<img src="../../../images/sriracha-sauce.jpg" width="180">
