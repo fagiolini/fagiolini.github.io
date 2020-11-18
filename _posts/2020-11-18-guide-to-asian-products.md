@@ -23,13 +23,13 @@ they are usually prepared with water and flour. unlike pasta noodles, they are m
 -  **thinner** ones are usually rehydrated in hot water before going into the pan with the condiment. 
 
 there are various types of noodles, but here are the two main types of noodles that can be switched up among all the recipes, we will then go in deeper with the other kinds. these two are:
-1.	*rice “linguini”*: best used in stir fries like pad thai.   
+1.	***rice “linguini”***: best used in stir fries like pad thai.   
 
-<img src="../../../images/rice-linguini.jpg" width="180">
+    <img src="../../../images/rice-linguini.jpg" width="180">
 
-2.	*rice vermicelli*: great in soups and need a very short soaking time in hot water before using.
+2.	***rice vermicelli***: great in soups and need a very short soaking time in hot water before using.
 
-<img src="../../../images/rice-vermicelli.jpg" width="180">
+    <img src="../../../images/rice-vermicelli.jpg" width="180">
 
 being made of rice they are easier to cook and less chewy than the soy ones.
 
@@ -38,17 +38,22 @@ now, if you really want to be a professional cook, here’s more about noodles:
 1.	__*rice noodles*__: typical of china and southeast asia. made from rice starch, rice noodles are available in all kinds of lengths and widths, and can be found in the cuisines of nearly every asian and southeast asian country. there are many varieties of dried noodles (they will usually require soaking or parboiling before use), but you may also find fresh rice noodles in the bigger asian groceries. they are flat and their width varies bwtween few millimiters to one centimeter. they are featured in **soups** and **stir-fries**.
 
 2.	__*soy spaghetti*__ (or vermicelli): they’re korean and also called glass noodles (see pic) or mungo bean noodles. more consistent and elastic than rice noodles, they should be hydrated with boiling water before using them in **soups**, **spring rolls** or jumping in the **wok**.
+
  <img src="../../../images/soy-spaghetti.jpg" width="300">
 
 3.	__*udon*__: japanese noodles made of wheat, that may be found fresh or dried. to make them even better they should be soaked before using them in recipes.
+
  <img src="../../../images/udon-noodles.jpg" width="300">
 
 4.	__*instant ramen noodles*__: those of american tv shows. they are both precooked and flavored. they are often sold in plastic packages that also contain a soup preparation, just add some hot water first and let it rest for a few minutes to taste them.
+
  <img src="../../../images/ramen-noodles.jpg" width="300">
 
 5.	__*shirataki noodles*__: they are made from the root of konjac, a native plant of the asian subtropical temperate zone.
-they have a low carbohydrate content and are therefore particularly recommended in all diets based on a limited carbohydrate intake as well as those for diabetics. they are also poor in other macronutrients and this results in a very low specific calorie intake, which is why we don’t use them much. 
+they are poor in all macronutrients and have a very low specific calorie intake, therefore particularly recommended in all diets based on a limited carbohydrate intake as well as those for diabetics, but not generally recommended.
+
 fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
+
  <img src="../../../images/shirataki-noodles.jpg" width="300">
 
 # miso paste
