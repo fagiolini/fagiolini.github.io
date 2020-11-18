@@ -12,6 +12,7 @@ tags: [guides]
 asian cusine is very flavourful and diverse and for that reason it can be very interesting to incorporate some of the ingredients in our meals, which can help to make our diet vary and different everyday. 
 
 it can be very confusing to understand what the products are and where to find the cheapest option in the market, which is what we are going to help you with in this guide.
+
 all of the products that we will mention can be found in supermarkets but they tend to be more expensive and the choice is very limited. the most convenient way to find them is in an asian shop (in bigger cities there’s always a china town), where they are found in cheap and also bigger packages. sometimes also the international grocers have them…there’s no rule, just take a couple hours to go scouting for the perfect asian-goodies provider!
 
 
@@ -51,8 +52,7 @@ now, if you really want to be a professional cook, here’s more about noodles:
 
 5.	__*shirataki noodles*__: they are made from the root of konjac, a native plant of the asian subtropical temperate zone.
 they are poor in all macronutrients and have a very low specific calorie intake, therefore particularly recommended in all diets based on a limited carbohydrate intake as well as those for diabetics, but not generally recommended.
-
-    fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
+> fun fact: the term "shirataki", describes the appearance of the noodles, it means "white waterfall".
 
     <img src="../../../images/shirataki-noodles.jpg" width="180">
 
@@ -61,8 +61,7 @@ they are poor in all macronutrients and have a very low specific calorie intake,
 when cooking asian dishes, especially **soups**, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable **stock**, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
 
 not only does miso add a savory element to your dish, it’s also good for you. because it’s a fermented seasoning, miso paste contains probiotics, healthy bacteria which may boost your immunity, promote a healthier gut and help alleviate some of the symptoms of depression and anxiety.
-
-    <img src="../../../images/miso-soup.jpg" width="180">
+<img src="../../../images/miso-soup.jpg" width="180">
 
 # soy sauce
 
@@ -92,7 +91,7 @@ coconut products have burst into popularity over the last few years, there are m
 
 1. ***coconut milk***: it has long been a key ingredient in southeast asian cooking, and it’s made from the pulp of a mature coconut by grating the pulp, soaking it in water, and pressing the liquid. 
    
-    coconut milk adds richness to **curries (yumyumyum!)**, **sauces**, **braised dishes** and noodle **soups**. there are various types that differ by fat content. 
+    coconut milk adds richness to **curries** (yumyumyum!), **sauces**, **braised dishes** and noodle **soups**. there are various types that differ by fat content. 
     - **regular** coconut milk (which is the one we normally use) has a consistency closer to dairy cream.  when it separates, it will look like gray water with a thick white layer at the top (this is the coconut “cream”, but when we cook, we shake it and use it all combined). 
     - **“low-fat”** or “light” coconut milk, which is simply a watered down version. we suggest to avoi it: it’s usually the same price as the regular stuff, but you’re getting more water than coconut! if you’d like to reduce the fat in your recipes, simply add less, and replace some of it with water yourself.
     - **thick** coconut milk on the other hand, often labeled coconut cream (not to confuse it with “cream of coconut,” which has added sugar), has the highest amount of fat and a thick consistency similar to yogurt.
