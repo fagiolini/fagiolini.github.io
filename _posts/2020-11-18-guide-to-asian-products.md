@@ -62,6 +62,7 @@ they are poor in all macronutrients and have a very low specific calorie intake,
 when cooking asian dishes, especially **soups**, this ingredient can’t miss. it’s a paste made of fermented soy beans and it serves just like vegetable **stock**, asian-style. the soybeans are mixed with salt and koji, a mold that’s also used to make sake. the blend might also include barley, rice, rye or other grains. to get its unique flavor, the mixture ferments for anywhere from a couple months to years! the longer it ages, the miso paste gets darker and more complex in flavor. 
 
 not only does miso add a savory element to your dish, it’s also good for you. because it’s a fermented seasoning, miso paste contains probiotics, healthy bacteria which may boost your immunity, promote a healthier gut and help alleviate some of the symptoms of depression and anxiety.
+
 <img src="../../../images/miso-paste.jpg" width="180">
 
 # soy sauce
