@@ -49,7 +49,7 @@ tags: [sweets, protein+, glutenfree]
     
 11. eat it warm.
 
-> if you eat it in the next days, we suggest heating it slightly (in the microwave) before consumption.
+> if you eat it in the next days, we suggest storing in the fridge and heating it slightly (in the microwave) before consumption.
     
     
 <img src="../images/quinoa-cake-whole.jpeg" width="300">
