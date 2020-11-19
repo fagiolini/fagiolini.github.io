@@ -4,7 +4,7 @@ title: sweet 'n sour chickpeas or tofu
 tags: [pulses, tofu, protein+, ultrafast, glutenfree, w/rice]
 ---
 <figure class="image">
- <img src="../../../images/sweet-sour-chickpeas-square.jpeg" width="300">
+ <img src="../../../images/sweet-sour-chickpeas.jpeg" width="300">
   <figcaption>sweet 'n sour chickpeas.</figcaption>
 </figure>
 
@@ -13,7 +13,7 @@ tags: [pulses, tofu, protein+, ultrafast, glutenfree, w/rice]
   <figcaption>sweet 'n sour tofu.</figcaption>
 </figure>
 
-to fully benefit from the chickpeas proteins, couple them with some rice. [find recipe below](#pilaf-rice).
+as all pulses, chickpeas are a great source of plant-based proteins. to fully benefit from them couple your chickpeas with some rice. [find recipe below](#pilaf-rice).
 
 *quantities for 2 abundant portions*
 
@@ -55,8 +55,10 @@ to fully benefit from the chickpeas proteins, couple them with some rice. [find 
 # pilaf rice
 ---
 
-1. warm some extra-virgin olive oil in a small pot 
-2. add the rice and toast it for a few minutes
+1. warm some extra-virgin olive oil in a small pot.
+   
+2. add the rice and toast it for a few minutes.
+   
 3. add water, salt and pepper and cover till complete absorption. the ratio of rice and water and the cooking time varies according to the type of rice you use: for basmati rice the ratio is 1:1 and the cooking is 10 minutes.
 
 for more info on **pilaf rice**, check [here](https://fagiolini.github.io/pilaf-rice/).

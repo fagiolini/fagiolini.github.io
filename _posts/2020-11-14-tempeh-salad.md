@@ -28,10 +28,15 @@ tags: [tofu, protein+, ultrafast, glutenfree]
 ---
 
 1. cut and wash your lettuce.
+   
 2. cut the tempeh in small pieces. if you use plain tofu, cut it in thin slices.
+   
 3. warm some extra-virgin olive oil in a pan, add the tempeh or [tofu](https://fagiolini.github.io/guide-tofu/) and cook until golden.
+   
 4. add the soysauce to the pan and cook for another minute, until the soy sauce dries and the tempeh/tofu becomes dark.
+   
 5. compose your dish: put the salad, then the nutritional yeast, the salt, the balsamic vinegar, the extra-virgin olive oil and, finally, the tempeh or tofu. 
+   
 6. serve with a couple of toasted bread slices.
 
 > note: to make it even faster, you can use savory packaged tofu, like smoked tofu, that you don't even need to cook. [learn everything about tofu here.](https://fagiolini.github.io/guide-tofu/)

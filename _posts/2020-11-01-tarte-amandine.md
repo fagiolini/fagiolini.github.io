@@ -46,11 +46,19 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 ---
 
 1. melt the chocolate in the microwave or bain-marie. 
+   
 2. chop the almonds half finely, half coarsely. 
+   
 3. combine oil, sugar, cornstarch, yogurt, almonds and flour and mix. 
+   
 4. add the apple cut in slices to the mix.
+   
 5. roll out a melted chocolate couche on the already rolled out shortbread dough. 
+   
 6. on top of the chocolate couche, add the prepared mix.
+   
 7. bake at 180 degrees in a preheated ventilated oven for 30 minutes.
 
-> we suggest heating it slightly (in the microwave) before eating it.
+8. serve it warm.
+
+> if you eat it in the next days, we suggest heating it slightly (in the microwave) before consumption.

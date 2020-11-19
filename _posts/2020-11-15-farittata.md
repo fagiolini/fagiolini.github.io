@@ -27,11 +27,17 @@ for the filling use veggies you prefer, or just the ones you have in your fridge
 ---
 
 1. mix the chickpeas flour with the water, add some salt and black pepper. let it rest while you cook your veggies.
+   
 2. chop your vegetables of choice, onions in our case, in thin slices and sauté in a pan.
+   
 3. when they have softened, add them to the chickpeas batter and mix well.
+   
 4. warm some extra-virgin oilve oil in a nonstick pan (if your pan sticks, even just a bit, be generous with olive oil).
+   
 5. pour the batter in the pan and cook at medium heat for around 5 minutes. the surface will dry a bit and the bottom will become golden and well firm.
+   
 6. it's time to flip the farittata: cover with a flat lid and flip. then let it slide back in the pan (add olive oil if needed).
+   
 7. cook for a few more minutes, then turn off and serve.
 
 <img src="../../../images/farittata-side.jpeg" width="300">

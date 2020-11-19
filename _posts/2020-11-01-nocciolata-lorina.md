@@ -22,9 +22,12 @@ tags: [sweets, glutenfree]
 ---
 
 1. blend the hazelnuts with oil and sugar until you get a cream, if the mixture remains grainy add some oil. 
-2. melt the chocolate *bain-marie* and add the soy milk little by little. 
+   
+2. melt the chocolate in *bain-marie* and add the soy milk little by little. 
+   
 3. add the hazelnut and sugar cream and continue to cook for a few minutes so that everything mixes well. 
+   
 4. put in glass jars. 
 
-> note: *nocciolata lorina* can be stored in the fridge for one month.
+> note: *lorina's hazelnut cream* can be stored in the fridge for one month.
 

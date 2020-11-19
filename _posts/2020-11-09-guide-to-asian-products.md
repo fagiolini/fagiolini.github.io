@@ -103,8 +103,11 @@ coconut products have burst into popularity over the last few years, there are m
 1. ***coconut milk***: it has long been a key ingredient in southeast asian cooking, and it’s made by grating the pulp of mature coconut, soaking it in water, and pressing the liquid. 
    
     coconut milk adds richness to **curries** (yumyumyum!), **sauces**, **braised dishes** and noodle **soups**. there are various types that differ by fat content. 
+
     - ***regular*** coconut milk (which is the one we normally use) has a consistency closer to dairy cream.  when it separates, it will look like gray water with a thick white layer at the top (this is the coconut “cream”, but when we cook, we shake it and use it all combined). 
+  
     - ***“low-fat”*** or “light” coconut milk, which is simply a watered down version. we suggest to avoid it: it’s usually the same price as the regular stuff, but you’re getting more water than coconut! if you’d like to reduce the fat in your recipes, simply add less, and replace some of it with water yourself.
+  
     - ***thick*** coconut milk on the other hand, often labeled coconut cream (not to confuse it with “cream of coconut,” which has added sugar), has the highest amount of fat and a thick consistency similar to yogurt.
   
     coconut milk is usually availabe in cans. if you just need a little bit in a recipe you can store it in the fridge in an air-tight container but make sure to eat it in the following days (because of its high fat content, it can go rancid quickly. if you do have some left over and don’t want to use it right away, you can put it in the freezer for longer term storage).
