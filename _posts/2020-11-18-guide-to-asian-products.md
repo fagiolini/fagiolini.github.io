@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [guides]
 ---
 
- <img src="../../../images/asian-cuisine.jpg" width="300">
+ <img src="../../../images/asian-cuisine2.jpg" width="300">
  
  
  <!--more-->
