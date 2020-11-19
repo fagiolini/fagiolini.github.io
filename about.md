@@ -15,5 +15,4 @@ we like to optimize our recipes with respect to the following criteria:
 
 ## about us
 ---
-
-we are a little family of three, annaviola, marina, lorenzo. we are from italy with a long tradition in vegetarianism and veganism. we believe in frugality, caring and optimization. welcome onboard!
+we are a little italian family of three, annaviola, marina and lorenzo, with a long tradition in vegetarianism and veganism. we believe in frugality, caring and optimization. welcome onboard!
