@@ -175,6 +175,7 @@ img {
   @include mobile {
     float: none;
     display: block;
+    margin-top: 50px;
     margin: 0;
   }
 
