@@ -1,7 +1,6 @@
 ---
 layout: post
 title: coconut curry
-tags: tofu
 excerpt_separator: <!--more-->
 tags: [tofu, protein+, w/rice]
 ---
@@ -48,7 +47,7 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 
 5. add some more curry if you wish and mix it all together. then cover with the lid and let it simmer at medium heat for about 15 minutes, when the milk will have become golden and the veggies soft. serve it with some rice and enjoy!
 
-> note: : the longer it rests after being cooked, the stronger the flavors get.
+> note: the longer it rests after being cooked, the stronger the flavors get.
 
 
 # pilaf rice
