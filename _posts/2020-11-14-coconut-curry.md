@@ -3,7 +3,7 @@ layout: post
 title: coconut curry
 tags: tofu
 excerpt_separator: <!--more-->
-tags: [tofu, protein+, w/rice, gluten free]
+tags: [tofu, protein+, w/rice, glutenfree]
 ---
 
  <img src="../../../images/coconut-curry.jpg" width="300">
