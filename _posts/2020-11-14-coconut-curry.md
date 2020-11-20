@@ -28,12 +28,13 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 - carrot: 1
 - bell pepper: 1
 - tofu: 150g
+- salt 
 - coconut milk: 1 can
 - curry: 3 to 4 tablespoons
 - turmeric (optional)
 - paprika (optional)
 - chili flakes (optional)
-- salt
+
 - lime slices and coriander to garnish (optional)
 
   > to know more about coconut milk, check our [guide to asian products](https://fagiolini.github.io/guide-to-asian-products/).
