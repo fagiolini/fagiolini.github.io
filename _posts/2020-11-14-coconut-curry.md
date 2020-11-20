@@ -47,7 +47,7 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 
 4. now chop the veggies in small pieces and add them to the pan, together with some salt and the coconut milk
 
-5. add some more curry if you wish and mix it all together. then cover with the lid and let it simmer at medium heat for about 15 minutes, when the milk will have become golden and the veggies soft. serve it with some rice and enjoy!
+5. add some more curry if you wish and mix it all together. then cover with the lid and let it simmer at medium heat for about 15 minutes, when the milk will have become golden and the veggies soft. garnish with lime slices and some coriander, serve it with some rice and enjoy!
 
 > note: the longer it rests after being cooked, the stronger the flavors get.
 
