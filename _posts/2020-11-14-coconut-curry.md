@@ -3,7 +3,7 @@ layout: post
 title: coconut curry
 tags: tofu
 excerpt_separator: <!--more-->
-tags: [tofu, protein+, w/rice]
+tags: [tofu, protein+, w/rice, gluten free]
 ---
 
  <img src="../../../images/coconut-curry.jpg" width="300">
@@ -36,10 +36,12 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 - salt
 - lime slices and coriander to garnish (optional)
 
+  > to know more about coconut milk of this recipe, check our [guide to asian products](https://fagiolini.github.io/guide-to-asian-products/).
+
 ## procedure
 ---
 
-1. warm up some oil (around 3 tablespoons at least) in a pan and when it's hot put the curry to fry together with paprika and turmeric. this step will allow the flavor to fully come out thanks to the oil. keep stirring not to let it burn!
+1. warm up some oil (around 3 tablespoons at least) in a pan and when it's hot put the curry to fry together with paprika, chili flakes and turmeric. this step will allow the flavor to fully come out thanks to the oil. keep stirring not to let it burn!
 
 2. now it's time for the tofu: crumble it or cut it in cubes and add it to the pan to let it absorb all the magnificent flavor.
    
