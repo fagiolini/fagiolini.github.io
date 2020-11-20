@@ -14,8 +14,6 @@ avatar: /images/avatar.jpg
 
 image:
   path: /images/avatar.jpg
-  height: 100
-  width: 100
 
 #
 # Flags below are optional
