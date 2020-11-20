@@ -26,7 +26,7 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 - onion: 1
 - broccoli: 1/2 a head
 - carrot: 1
-- bellpepper: 1
+- bell pepper: 1
 - tofu: 150g
 - coconut milk: 1 can
 - curry: 3 to 4 tablespoons
