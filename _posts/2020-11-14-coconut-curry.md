@@ -34,10 +34,9 @@ you can change the veggies as you wish and even leave out the tofu (why would yo
 - turmeric (optional)
 - paprika (optional)
 - chili flakes (optional)
-
 - lime slices and coriander to garnish (optional)
 
-  > to know more about coconut milk, check our [guide to asian products](https://fagiolini.github.io/guide-to-asian-products/).
+> to know more about coconut milk, check our [guide to asian products](https://fagiolini.github.io/guide-to-asian-products/).
 
 ## procedure
 ---
