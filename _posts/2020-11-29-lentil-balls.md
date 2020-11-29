@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: [pulses, protein+, glutenfree]
 ---
 
- <img src="../../../images/lentil-balls.jpg" width="300">
+ <img src="../../../images/lentil-balls.jpeg" width="300">
 
 <!--more-->
 
