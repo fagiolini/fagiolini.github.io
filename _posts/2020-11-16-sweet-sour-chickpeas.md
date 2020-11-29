@@ -20,7 +20,9 @@ as all pulses, chickpeas are a great source of plant-based proteins. to fully be
 ## ingredients
 ---
 
-- cooked chickpeas or plain [tofu](https://fagiolini.github.io/guide-tofu/): 220g 
+- chickpeas: 220g boiled, 100g raw dried
+  
+  *or* plain [tofu](https://fagiolini.github.io/guide-tofu/): 240g
 - green part of 3 leeks
 - carrots: 2
 - juice of 1 lemon
@@ -32,6 +34,7 @@ as all pulses, chickpeas are a great source of plant-based proteins. to fully be
 
 ## procedure
 ---
+0.  if they are not canned, boil your chickpeas: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
 
 1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
 
@@ -45,7 +48,7 @@ as all pulses, chickpeas are a great source of plant-based proteins. to fully be
 
 6. prepare the sweet and sour sauce: in a glass mix the soy sauce, the lemon juice, the agave syrup/cane sugar, and the cornstarch. 
 
-7. when the vegetables are soft (10 minutes more or less), add the tofu or the cooked chickpeas. we used decorticated chickpeas that are faster to cook but normal chickpeas will work fine too. you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned chickpeas, after rinsing.
+7. when the vegetables are soft (10 minutes more or less), add the tofu or the cooked chickpeas.
 
 8. after a couple of minutes, turn off the flame and add the sweet and sour sauce. it’s important to add it with no flame otherwise it will evaporate soon and the dish will be too dry.
 

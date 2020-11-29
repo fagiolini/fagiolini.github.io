@@ -19,8 +19,8 @@ tags: [pulses, protein+, ultrafast, glutenfree, w/rice]
 
 - oil of choice
 - garlic: 1 clove
-- cooked [pilaf rice](#pilaf-rice) : 160g 
-- cooked lentils (you can find suggestions for cooking pulses [here](https://fagiolini.github.io/pulses-guide/), or you can use canned lentils, after rinsing): 400g 
+- rice: 80g
+- lentils: 400g boiled, 180g raw dried
 - curry: a teaspoon
 - coriander and lemon (optional) to make it even tastier and more colorful
 
@@ -28,19 +28,21 @@ tags: [pulses, protein+, ultrafast, glutenfree, w/rice]
 ## procedure
 ---
 
-1.	sauté the garlic in a pan with some of your oil of choice, and when it’s sizzeling add the rice and the lentils and mix it all together at high heat.
+0. if they are not canned, boil your lentils: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
 
-2.	add the curry and let it fry a little bit.
+1. cook your rice pilaf-style: find recipe [below](#pilaf-rice)
 
-3.	when it’s all brown and smells amazing, it’s ready to eat! 
+2.	sauté the garlic in a pan with some of your oil of choice, and when it’s sizzeling add the rice and the lentils and mix it all together at high heat.
 
-4.	if you’d like, garnish with some coriander and a couple drops of lemon juice.
+3.	add the curry and let it fry a little bit.
 
+4.	when it’s all brown and smells amazing, it’s ready to eat! 
+
+5.	if you’d like, garnish with some coriander and a couple drops of lemon juice.
 
 
 # pilaf rice
 ---
-
 1. warm some extra-virgin olive oil in a small pot.
    
 2.  add the rice and toast it for 1-2 minutes.

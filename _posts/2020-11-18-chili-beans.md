@@ -15,7 +15,7 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
 ## ingredients
 ---
 
-- cooked beans (red, black, or kidney): 400g
+- beans (red, black, or kidney): 400g boiled, 180 raw dried
 - onion: 1/2
 - bell pepper (any colour): 1
 - tomato sauce or purée: 250g
@@ -26,6 +26,7 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
 
 ## procedure
 ---
+0. if they are not canned, boil your beans: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
 
 1. chop the onion in thin slices and sauté with extra-virgin olive oil and chili peppers (quantity depending on your taste).
    
@@ -35,7 +36,7 @@ as all pulses, beans are a great source of plant-based proteins. to fully benefi
    
 4. if you are accompanying your chili beans with some rice, it's time to start the cooking of it!  [find the recipe below](#pilaf-rice). 
    
-5. back to the sauce: after 25 minutes of cooking, taste it: if it’s well cooked and not acidic add the cooked beans, otherwise wait a bit more. you can either use canned and rinsed beans, or cook your own beans: [here are our suggestions](https://fagiolini.github.io/pulses-guide/).
+5. back to the sauce: after 25 minutes of cooking, taste it: if it’s well cooked and not acidic add the cooked beans, otherwise wait a bit more.
    
 6. add a tablespoon of tomato concentrate.
    
