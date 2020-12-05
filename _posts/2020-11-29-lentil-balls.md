@@ -40,7 +40,7 @@ served with tomato sauce, these lentil balls are an amazing condiment for spaghe
 
 3. make the balls pressing them with your hands and dispose them on a baking trail covered in parchment paper.
 
-4. cook in preheated static oven for 20 minutes, turning them after 10 minutes.
+4. cook in preheated static oven for 20 minutes at 220° C, turning them after 10 minutes.
 
 5. while the balls cook, make the sauce.
 
