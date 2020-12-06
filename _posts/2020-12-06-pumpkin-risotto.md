@@ -24,7 +24,6 @@ tags: [w/rice]
 - carnaroli/arborio rice: 180g
 - vegetable broth
 - soy yogurt: 3 tablespoons
-- salt
 - cinnamon (optional)
 - nutmeg (optional)
 - sage to garnish (optional)
