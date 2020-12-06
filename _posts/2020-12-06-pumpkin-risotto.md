@@ -20,7 +20,7 @@ tags: [w/rice]
 
 - oil of choice
 - onion: 1
-- pupkin: 350g (around 1/4 of a pumpkin)
+- pumpkin: 350g (around 1/4 of a pumpkin)
 - carnaroli/arborio rice: 180g
 - vegetable broth
 - soy yogurt: 3 tablespoons
