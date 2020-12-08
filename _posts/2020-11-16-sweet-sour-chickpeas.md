@@ -34,7 +34,7 @@ as all pulses, chickpeas are a great source of plant-based proteins. to fully be
 
 ## procedure
 ---
-0.  if they are not canned, boil your chickpeas: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
+0.  if you are using chickpeas and they are not canned, boil them: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
 
 1. cut the green part of three leeks into thin strips: we have chosen to use this part of the leek which is normally thrown away, keeping it aside after using the white part (less leathery) in other recipes. of course, you can use the whole leek, including the white part, in this recipe.
 

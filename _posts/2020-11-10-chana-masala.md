@@ -16,8 +16,8 @@ tags: [pulses, protein+, glutenfree, w/rice]
 ## ingredients
 ---
 
-- cooked chickpeas (normal or decorticated): 250g
-- tomato sauce or purée: 350g
+- chickpeas (normal or decorticated): 250g boiled, 120 raw dried
+- tomato purée: 350g
 - garlic: 1 big clove
 - chana masala: 2 full teaspoons
 - ginger: 2cm
@@ -28,13 +28,14 @@ tags: [pulses, protein+, glutenfree, w/rice]
 > note: **chana masala** (picture below) is a mix of spices you can find in ethnic shops. if you don’t have it, you can mix the following spices - or just the ones you have among these: chili pepper, cumin, coriander, cardamom, cinnamon, black pepper, cloves, tumeric, dry mango powder.
 
 
- <figure class="image">
+<figure class="image">
   <img src="../../../images/chana-masala-box.jpg" width=200> 
   <figcaption>chana masala spice mix as found in most shops</figcaption>
 </figure>
 
 ## procedure
 ---
+0.  if they are not canned, boil your chickpeas: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/).
 
 1. mince the garlic clove and sauté it in a pot with some extravirgin olive oil and the chili pepper.
    
@@ -46,7 +47,7 @@ tags: [pulses, protein+, glutenfree, w/rice]
    
 5. if you are accompanying your chana masala with some rice, it's time to start the cooking of it!  [find the recipe below](#pilaf-rice) 
   
-6. add the cooked chickpeas to the tomato sauce: you can either use canned and rinsed chickpeas, or cook your own chickpeas: [here are our suggestions](https://fagiolini.github.io/pulses-guide/).
+6. add the cooked chickpeas to the tomato sauce.
 
 7. mince the ginger and add it: it's important to add it at the end and not at beginning, for it will be more tasty this way.
 
