@@ -2,7 +2,7 @@
 layout: post
 title: creamy pumpkin risotto
 excerpt_separator: <!--more-->
-tags: [w/rice]
+tags: [w/rice, glutenfree]
 ---
 
  <img src="../../../images/pumpkin-risotto.jpg" width="300">
