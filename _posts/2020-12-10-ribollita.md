@@ -19,7 +19,7 @@ we love it because, besides being very tasty and warm during winter time, it hel
 ---
 
 - carrot: 1
-- celery: 1/4 head
+- celery: 1/4 of a head
 - onion: 1
 - boiled cannellini/white beans: 300g, or 130g raw dried
 - savoy cabbage: 200g
@@ -40,7 +40,7 @@ we love it because, besides being very tasty and warm during winter time, it hel
 ## procedure
 ---
 
-0. if you are not used canned beans, start boiling them: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/). keep their cooking water and then use it as a broth for your ribollita!
+0. if you are not using canned beans, start boiling them: [find our suggestions for cooking pulses here](https://fagiolini.github.io/pulses-guide/). keep their cooking water and then use it as a broth for your ribollita!
 
 1. mince the onion, the celery and the carrot and sautée in extra-virgin olive oil in a pot, together with the chili pepper.
    
@@ -62,7 +62,7 @@ we love it because, besides being very tasty and warm during winter time, it hel
     
 10. add your boiled beans and mix.
    
-11. add the bread and mix well, turn off the heat and leave the pot covered for at least 10 minutes. the bread will absorbe the broth and will soften. you will end up with a pretty dry soup!
+11. add the bread and mix well, turn off the heat and leave the pot covered for at least 10 minutes. the bread will absorbe the broth and will soften. with these quantities you will end up with a pretty dry "soup", but ribollita comes in many different shapes, add more broth to make it more soupy to your taste.
     
 12. garinish with some basil, serve and enjoy!
     
