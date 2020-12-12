@@ -11,7 +11,7 @@ tags: [w/rice, glutenfree]
 
 
 
-*quantities for 2 abundant portions*
+*quantities for 2 portions*
 
 
 
@@ -21,7 +21,7 @@ tags: [w/rice, glutenfree]
 - oil of choice
 - onion: 1
 - pumpkin: 350g (around 1/4 of a pumpkin)
-- carnaroli/arborio rice: 180g
+- risotto rice: 180g
 - vegetable broth
 - soy yogurt: 3 tablespoons
 - cinnamon (optional)
@@ -41,7 +41,7 @@ tags: [w/rice, glutenfree]
 
 5. it's time for the rice! using the same pan, toast the rice with some oil for a minute or two. then add half of the puré, and cover it completely with vegetable broth.
 
-6. now, you know the drill: keep adding vegetable broth (and keep stirring!!) until the rice is soft and puffy.
+6. now, you know the drill: keep adding vegetable broth (and keep stirring!!) until the rice is soft but not falling apart (depends on your taste!).
 
 7. when the rice is ready, add the remaining puré along with the yogurt and mix it all, adding some broth if it doesn't look runny enough.
 
