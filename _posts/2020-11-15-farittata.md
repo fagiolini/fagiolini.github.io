@@ -8,9 +8,9 @@ tags: [pulses, protein+, glutenfree]
  <img src="../../../images/farittata.jpeg" width="300">
  
  <!--more-->
-*farittata* is our vegan version of the italian "*frittata*", the omelette. we mixed the recipe for "*frittata*" with that for "*farinata*", another tipical italian recipe made out of chickpeas flour. the result is a tasty vegan omelette with a good protein content!
+*farittata* is our vegan version of the italian "*frittata*", the omelette. we mixed the recipe for "*frittata*" with that for "*farinata*", another typical italian recipe made out of chickpeas flour. the result is a tasty vegan omelette with a good protein content!
 
-for the filling use veggies you prefer, or just the ones you have in your fridge! we tried with onions, spinach, leeks and zucchini and loved each one of them.
+for the filling use the veggies you prefer, or just the ones you have in your fridge! we tried with onions, spinach, leeks and zucchini and loved each one of them.
 
 *quantities for 4 portions*
 
