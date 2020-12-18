@@ -40,6 +40,7 @@ you'll need around 200g of one of these grains
 
 
 - **marinated tofu/tempeh**: cut 150g of tofu/tempeh in slices or cubes and let it sit (best done overnight but a few hours will do if you don't have the time) in the condiment you prefer: it could be lemon juice and parsley, soy sauce, orange juice and olive oil. then add it straight to your bowl or stir fry it to make it crunchier
+
 to know more about tofu click [here](https://fagiolini.github.io/guide-tofu/)
 
 - **beans**: 400g of canned red, kidney, cannellini beans...choose your fighter!
@@ -60,13 +61,13 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
 
 - **marinated carrots**: cut two carrots julienne style and let them sit in orange juice, salt and a drizzle of olive oil
   
-- **baked savoy cabbage**: finely chop half of a head and top it with olive oil and a pinch of salt before cooking it in the oven for around 20 minutes at 180°C
+- **baked savoy cabbage**: finely chop 1/2 of a head and top it with olive oil and a pinch of salt before cooking it in the oven for around 20 minutes at 180°C
   
 - **sauté green veggies**: sauté 1/2 of a head of turnip greens, catalogna or beets in a pan with two finely chopped garlic cloves, a drizzle of olive oil,a pinch of salt and some chili peppers...hella delicious!
   
 - **baked pumpkin**: chop 1/4 of a pumpkin, mix it with some cinnamon powder, olive oil and some salt and cook it in the oven around 20 minutes at 180°C
   
-- **steamed cauliflower or broccoli**: half of a head
+- **steamed cauliflower or broccoli**: 1/2 of a head
   
 - **baked brussel sprouts**: chop in half 150g of brussel sprouts, top them with olive oil, salt and herbs of your choice (rosemary tastes super yummy on them) and throw them in the oven for around 20 minutes at 180°C
 
@@ -74,15 +75,15 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
 ## toppings
 ---
 
-- finely sliced **avocado** (for some extra good fats): half of one will do just fine
+- finely sliced **avocado** (for some extra good fats): 1/2 will do just fine
   
 - **seeds** of choice (sesame, pumpkin, hemp,...)
   
-- **crunchy chickpeas**: mix 400g of canned chickpeas with some olive oil and spices of choice (curry is amazing for this) and throw them in the oven for around 10 minutes at 180°C until crunchy
+- **crunchy chickpeas**: mix 400g of canned chickpeas with some olive oil, 4 tablespoons of flour of choiche, some salt and spices of choice (paprika and rosmary are amazing for this) and throw them in the oven for around 30 minutes at 200°C until crunchy
   
-- **sweet 'n sour sauce**: to make this, mix equal parts of soy sauce, lemon juice and sweetner of choice (can be sugar but also agave syrup or honey if you'd like)
+- **sweet 'n sour sauce**: to make this, mix 4 tablespoons of soy sauce, of lemon juice and of the sweetner of choice (can be sugar but also agave syrup or honey if you'd like)
   
-- **yogurt sauce**: mix six tablespoons of soy yogurt with lemon juice, finely sliced chive, olive oil and salt and boom you have a great vegan creamy sauce!
+- **yogurt sauce**: mix 6 tablespoons of soy yogurt with lemon juice, finely sliced chive, olive oil and salt and boom you have a great vegan creamy sauce!
   
 - **marinated crumbled tofu**: crumble 150g of tofu and let it sit in a bowl with some olive oil, lemon, sesame seeds, minced chive/onion and parsley
 
@@ -90,5 +91,5 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
 
 now it's time to combine all ingredients in a bowl and enjoy it!
 
-> the one in the piture has millet, fresh rocket and avocado, sweet 'n sour tofu and carrots, fresh cucumber and tomatoes, and is topped with lemon juice, olive oil, salt and sesame seeds.
+> the one in the picture has millet, fresh rocket and avocado, sweet 'n sour tofu and carrots, fresh cucumber and tomatoes, and is topped with lemon juice, olive oil, salt and sesame seeds.
 
