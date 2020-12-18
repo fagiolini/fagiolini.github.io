@@ -6,11 +6,7 @@ tags: [w/rice]
 ---
 
  <img src="../../../images/nourish-bowl.jfif" width="300">
- 
- <figcaption>this one has millet, fresh rocket and avocado, sweet 'n sour tofu and carrots, fresh cucumber and tomatoes, and is topped with lemon juice, olive oil, salt and sesame seeds.</figcaption>
- <figure>
 
- 
 
  
  <!--more-->
@@ -20,6 +16,7 @@ tags: [w/rice]
  
  > we're not gonna give you the quantities of each ingredient because you should feel free to eat as much as you feel like eating. however, to help yourself, we would suggest the plate method, the easiest way to make sure you're eating a balanced meal. 
  imagine your plate divided in 4 sections: 1/4 should be grains, 1/4 should be proteins and 2/4 should be veggies (or fruit).
+ > this one has millet, fresh rocket and avocado, sweet 'n sour tofu and carrots, fresh cucumber and tomatoes, and is topped with lemon juice, olive oil, salt and sesame seeds.
  
 <img src="../../../images/nourish-bowl.jfif" width="300">
  
@@ -37,24 +34,20 @@ tags: [w/rice]
 - brown/white rice
 - millet
 - pilaf rice:
-
-    to see how to make it click [here](https://fagiolini.github.io/pilaf-rice/)
+  to see how to make it click [here](https://fagiolini.github.io/pilaf-rice/)
 
 
 ## proteins
 ---
 
 - marinated tofu/tempeh:
-  
-  cut the tofu/tempeh in slices or cubes and let it sit (best done overnight but a few hours will do if you don't have the time) in the condiment you prefer: it could be lemon juice and parley, soy sauce, orange juice and olive oil. then add it straight to your bowl or stir fry it to make it crunchier.
+  cut the tofu/tempeh in slices or cubes and let it sit (best done overnight but a few hours will do if you don't have the time) in the condiment you prefer: it could be lemon     juice and parley, soy sauce, orange juice and olive oil. then add it straight to your bowl or stir fry it to make it crunchier.
 - beans: red, kidney, cannellini...choose your fighter!
 - hummus
 - spicy lentils:
-  
   sauté some cooked lentils with some olive oil, curry and chili pepper.
 - sweet 'n sour chickpeas or tofu:
-   
-     to see how to make them check [here](https://fagiolini.github.io/sweet-sour-chickpeas/)
+  to see how to make them check [here](https://fagiolini.github.io/sweet-sour-chickpeas/)
 
 
 ## veggies
@@ -83,18 +76,13 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
 - finely sliced avocado (for some extra good fats)
 - seeds of choice (sesame, pumpkin, hemp,...)
 - crunchy chickpeas:
-  
   mix some cooked with some olive oil and spices of choice (curry is amazing for this) and throw them in the oven until crunchy
 - sweet 'n sour sauce:
-  
   to make this, mix equal parts of soy sauce, lemon juice and sweetner of choice (can be sugar but also agave syrup or honey if you'd like)
 - yogurt sauce:
-  
   mix some soy yogurt with lemon juice, finely sliced chive, olive oil and salt and boom you have a great vegan creamy sauce!
 - marinated crumbled tofu:
-  
   crumble some tofu and let it sit in a bowl with some olive oil, lemon, sesame seeds, minced chive/onion and parsley
-
 
 
 ---
