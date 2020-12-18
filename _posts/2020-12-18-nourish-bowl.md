@@ -5,8 +5,10 @@ excerpt_separator: <!--more-->
 tags: [w/rice]
 ---
 
- <img src="../../../images/nourish-bowl.jpg" width="300">
+ <img src="../../../images/nourish-bowl.jfif" width="300">
+ 
  <figcaption>this one has millet, fresh rocket and avocado, sweet 'n sour tofu and carrots, fresh cucumber and tomatoes, and is topped with lemon juice, olive oil, salt and sesame seeds.</figcaption>
+ <figure>
 
  
 
@@ -19,7 +21,7 @@ tags: [w/rice]
  > we're not gonna give you the quantities of each ingredient because you should feel free to eat as much as you feel like eating. however, to help yourself, we would suggest the plate method, the easiest way to make sure you're eating a balanced meal. 
  imagine your plate divided in 4 sections: 1/4 should be grains, 1/4 should be proteins and 2/4 should be veggies (or fruit).
  
-<img src="../../../images/nourish-bowl.jpg" width="300">
+<img src="../../../images/nourish-bowl.jfif" width="300">
  
 
 
