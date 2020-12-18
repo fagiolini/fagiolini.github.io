@@ -2,7 +2,7 @@
 layout: post
 title: nourish bowl
 excerpt_separator: <!--more-->
-tags: [w/rice]
+tags: [w/rice, glutenfree, protein+]
 ---
 
  <img src="../../../images/nourish-bowl.jfif" width="300">
