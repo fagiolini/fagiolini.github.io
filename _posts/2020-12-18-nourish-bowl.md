@@ -37,6 +37,7 @@ here is a scheme to compose your bowl, with some ideas for grains, proteins, veg
 ---
 
 - **marinated tofu/tempeh**: cut the tofu/tempeh in slices or cubes and let it sit (best done overnight but a few hours will do if you don't have the time) in the condiment you prefer: it could be lemon     juice and parley, soy sauce, orange juice and olive oil. then add it straight to your bowl or stir fry it to make it crunchier
+to know more about tofu click [here](https://fagiolini.github.io/guide-tofu/)
   
 - **beans**: red, kidney, cannellini...choose your fighter!
   
