@@ -15,8 +15,9 @@ nourish bowls, also know ad buddha bowls, are an awesome way to combine in one m
 
 here is a scheme to compose your bowl, with some ideas for grains, proteins, veggies and toppings, but feel free to change it up!
 
- > we're not gonna give you the quantities of each ingredient because you should feel free to eat as much as you feel like eating. however, to help yourself, we would suggest the plate method, the easiest way to make sure you're eating a balanced meal. 
+ > to help yourself with quantities, the easiest way to make sure you're eating a balanced meal would be the **plate method**. 
  imagine your plate divided in 4 sections: 1/4 should be grains, 1/4 should be proteins and 2/4 should be veggies (or fruit).
+  <img src="../../../images/plate-method.jfif" width="300">
 
 
 *quantities for 2 abundant portions*
@@ -60,7 +61,7 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
   
 - **baked savoy cabbage**: finely chop half of a head and top it with olive oil and a pinch of salt before cooking it in the oven for around 20 minutes at 180°C
   
-- **sauté green veggies**: sauté some turnip greens, some catalogna or some beets (about 1/2 of a head) in a pan with two finely chopped garlic cloves, a drizzle of olive oil,a pinch of salt and some chili peppers...hella delicious!
+- **sauté green veggies**: sauté 1/2 of a head of turnip greens, catalogna or beets in a pan with two finely chopped garlic cloves, a drizzle of olive oil,a pinch of salt and some chili peppers...hella delicious!
   
 - **baked pumpkin**: chop 1/4 of a pumpkin, mix it with some cinnamon powder, olive oil and some salt and cook it in the oven around 20 minutes at 180°C
   
