@@ -18,7 +18,7 @@ here is a scheme to compose your bowl, with some ideas for grains, proteins, veg
  > to help yourself with quantities, the easiest way to make sure you're eating a balanced meal would be the **plate method**. 
  imagine your plate divided in 4 sections: 1/4 should be grains, 1/4 should be proteins and 2/4 should be veggies (or fruit).
   
-  <img src="../../../images/plate-method.jfif" width="300">
+  <img src="../../../images/plate-method.jfif" width="200">
 
 
 *quantities for 2 abundant portions*
