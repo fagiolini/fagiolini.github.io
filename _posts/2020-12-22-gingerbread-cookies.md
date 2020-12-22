@@ -42,3 +42,5 @@ these gingerbread cookies are a must for winter time and a perfect (and always a
 
 5. bake for 13-15 minutes in a static oven at 180°C
 
+then just let them cool down and enjoy their welcoming taste with your family and friends.
+
