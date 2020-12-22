@@ -21,19 +21,12 @@ these gingerbread cookies are a must for winter time and a perfect (and always a
 ---
 
 - flour 0 or flour 1: 200g 
-  
 - baking powder: 1 teaspoon 
-  
 - cinnamon: 1/2 teaspoon (optional)
-  
 - salt: 1 pinch   
-  
 - grated ginger: 2 teaspoons  (or 1 teaspoon powdered ginger)
-  
 - sunflower seed oil: 50g 
-  
 - maple syrup (or other liquid sweetener): 60g
-   
 - water: 2 tablespoons  
 
 ## procedure
