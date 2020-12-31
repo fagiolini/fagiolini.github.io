@@ -63,7 +63,7 @@ we like to use both cooked and fresh veggies, depending on the season. here are 
   
 - **sauté green veggies**: sauté 1/2 of a head of turnip greens, catalogna or beets in a pan with two finely chopped garlic cloves, a drizzle of olive oil,a pinch of salt and some chili peppers...hella delicious!
   
-- **baked pumpkin**: chop 1/4 of a pumpkin, mix it with some cinnamon powder, olive oil and some salt and cook it in the oven around 20 minutes at 180°C
+- **baked pumpkin**: chop 1/4 of a pumpkin, mix it with some cinnamon powder (optional), olive oil and some salt and cook it in the oven around 20 minutes at 180°C
   
 - **steamed cauliflower or broccoli**: 1/2 of a head
   
