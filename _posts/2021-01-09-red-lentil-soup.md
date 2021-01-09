@@ -38,7 +38,7 @@ this recipe has a very special flavor: we fell in love the first time we tried i
 
 4. now it's time for the vegetable broth: pour it into the pot, add half of the lemon juice and cover it with the lid.
 
-5. after 30 minutes your soup should be ready! add in the lemon juice and let it sit for a few moments.
+5. after 30 minutes your soup should be ready! add in the remaining lemon juice and let it sit for a few moments.
 
 6. we like to blend up half of the soup to make the texture a little more interesting. serve with bread or crostini and a drizzle of raw olive oil!
 
