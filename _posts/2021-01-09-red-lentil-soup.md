@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lentil lemon and cumin soup
+title: lemon and cumin lentil soup
 excerpt_separator: <!--more-->
 tags: [glutenfree, protein+]
 ---
