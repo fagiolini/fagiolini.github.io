@@ -2,7 +2,7 @@
 layout: post
 title: lemon and cumin lentil soup
 excerpt_separator: <!--more-->
-tags: [glutenfree, protein+]
+tags: [glutenfree, protein+, pulses]
 ---
 
  <img src="../../../images/red-lentil-soup.jpeg" width="300">
@@ -16,21 +16,13 @@ this recipe has a very special flavor: we fell in love the first time we tried i
 
 ## ingredients
 ---
-
 - onion: 1
-  
 - garlic: 1 clove
-  
 - cumin: 1 tablespoon  
-  
 - celery: 1 stem
-  
 - carrot: 1
-  
 - vegetable broth  
-
 - juice of 1 lemon
-
 - lentils (best if red): 400g boiled, 180 raw dried
 
 > the carrot and celery are optional as long as you use some other vegetable. this recipe is great to use up those parts of veggies you would throw away: we sometimes make it with the external part of a fennel or the hard part of the broccoli.
