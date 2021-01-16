@@ -2,7 +2,7 @@
 layout: post
 title: lentil lasagne
 excerpt_separator: <!--more-->
-tags: [protein+, pulses]
+tags: [pulses, protein+, pasta]
 ---
 
  <img src="../../../images/lasagne.jpeg" width="300">
