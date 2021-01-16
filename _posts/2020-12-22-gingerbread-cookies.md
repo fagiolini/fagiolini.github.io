@@ -38,9 +38,9 @@ these gingerbread cookies are a must for winter time and a perfect (and always a
     
 3. roll it out to a thickness of 3-4mm. 
 
-4. mold the cookies with the help of the shapes, lay them on a baking sheet (with baking paper)  
+4. mold the cookies with the help of the shapes, lay them on a baking sheet (with baking paper).
 
-5. bake for 13-15 minutes in a static oven at 180°C
+5. bake for 13-15 minutes in a static oven at 180°C.
 
 then just let them cool down and enjoy their welcoming taste with your family and friends.
 
