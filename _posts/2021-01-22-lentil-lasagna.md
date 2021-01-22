@@ -13,22 +13,18 @@ tags: [pulses, protein+, pasta]
 
 ## ingredients
 ---
-- eggless lasagna pasta: 250g
+- egg-free lasagna pasta: 250g
 - nutritional yeast (optional): 3 tablespoons
 
 ### for the lentil ragù
 
 - onion: 1 and 1/2
-- carrots: 2
+- carrots: 1 big or 2 small
 - celery: 1/2 of a head
 - raw dried lentils: 300g
-- red wine: 1 glass
+- red wine: 1 glass - old wine leftovers are fine, even if they have become vinegar-like
 - tomato purée: 750g
 - salt and pepper
-
-> we normally use wine leftovers - even if they are really old and became a bit vinegar-like, after cooking you would not tell difference from a good wine!
-
-> if you want to make the cooking faster, consider soaking the lentils in advance (mandatory step if you are using big lentils).
 
 ### for the besciamelle
 
@@ -44,15 +40,17 @@ tags: [pulses, protein+, pasta]
 ---
 ### for the lentil ragù
 
+0. if you want to make the cooking faster, or if you are using big lentils, soak them in advance for at least 5 hours.
+
 1. mince the onions, the carrot and the celery. to make it faster, we used a blender.
 
 2. sauté them in a big pot with some extra-virgin olive oil.
 
 3. pour the lentil and sauté for a couple of minutes.
 
-4. add the red wine and let it evaporate.
+4. add the red wine and let it cook out. the wine really gives a special touch to your ragù, but if you don't have it, feel free to skip this step.
 
-5. add the tomato sauce with a glass of water, a teaspoon of salt and pepper to your taste. cover and let it cook until the lentils soften - 30 minutes at least. while the ragù cooks, prepare the besciamelle.
+5. add the tomato sauce with a glass of water, a teaspoon of salt and pepper to your taste. cover and let it cook at low heat until the lentils soften - 30 minutes at least. while the ragù cooks, prepare the besciamelle.
 
 ### for the besciamelle
 
