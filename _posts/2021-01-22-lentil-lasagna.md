@@ -40,7 +40,7 @@ tags: [pulses, protein+, pasta]
 ---
 ### for the lentil ragù
 
-0. if you want to make the cooking faster, or if you are using big lentils, soak them in advance for at least 5 hours.
+0. if you want to make the cooking faster, or if you are using big lentils, soak the lentils in advance for at least 5 hours.
 
 1. mince the onions, the carrot and the celery. to make it faster, we used a blender.
 
