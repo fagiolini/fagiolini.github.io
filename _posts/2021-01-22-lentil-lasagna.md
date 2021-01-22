@@ -34,7 +34,7 @@ tags: [pulses, protein+, pasta]
 - nutmeg
 - salt and pepper
 
-> we learned this besciamelle recipe from our friends Fresche e ribelli's [cookbook](https://www.dropbox.com/s/kz2kihmaf7gp1ga/FRESCHE%20E%20RIBELLI%20-autunnoinverno.pdf?dl=0). Check out their [website](https://fresche-ribelli.yolasite.com/) for good and genuine recipes, as well as for the amazing projects they carry on!
+> we learned this besciamelle recipe from our friends Fresche e Ribelli's [cookbook of seasonal and genuine recipes](https://www.dropbox.com/s/kz2kihmaf7gp1ga/FRESCHE%20E%20RIBELLI%20-autunnoinverno.pdf?dl=0). Check out their [website](https://fresche-ribelli.yolasite.com/) to know more about their delicaces and the social projects they carry on!
 
 ## procedure
 ---
