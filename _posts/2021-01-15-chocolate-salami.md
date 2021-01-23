@@ -29,11 +29,11 @@ tags: [sweets]
 
 3. once all the chocolate has melted, remove it from the heat and add the vegetable milk and the seed oil. stir well both to reach a smooth mixture.
    
-4. now add the crushed cookies and 60 grams of chopped hazelnuts or your favorite nut... if you don't like the idea, just add 60 more grams of cookies!
+4. now add the crushed cookies and 60 grams of chopped hazelnuts or of your favorite nut... if you don't like the idea, just add 60 more grams of cookies! mix everything quickly.
 
-5. mix quickly with a spoon, pour everything on a sheet of baking paper and roll it well trying to give it the typical shape. roll it up and close the ends like a candy. 
+5. pour the mixture on a sheet of baking paper and roll it well trying to give it the typical shape. roll it up and close the ends like a candy. 
 
-6.  let it rest in the refrigerator for at least 3 hours. then it's ready to enjoy!
+6. let it rest in the refrigerator for at least 3 hours. then it's ready to enjoy!
 
 
 
