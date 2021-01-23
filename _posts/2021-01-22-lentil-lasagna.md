@@ -9,6 +9,8 @@ tags: [pulses, protein+, pasta]
  
  <!--more-->
 
+the typical party meal for italian families, in a delicious plant-based version. its peculiarity is a special type of besciamelle, that doesn't require any (plant-based) milk. with a more delicate taste, it will enhance the taste of the ragù.
+
 *quantities for 6 portions*
 
 ## ingredients
