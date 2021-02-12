@@ -61,4 +61,6 @@ add the liquid ingredients to the dry ingredients and knead for a few minutes un
 
 8. serve it warm.
 
+ <img src="../../../images/tarte-amandine1.jpeg" width="300">
+
 > if you eat it in the next days, we suggest heating it slightly (in the microwave) before consumption.
