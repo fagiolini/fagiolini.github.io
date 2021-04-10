@@ -7,10 +7,9 @@ tags: [sweets]
 ---
 
 
- these super easy two-ingredient snacks are perfect for that mid morning/mid afternoon/midnight hunger ;) 
-
  <img src="../../../images/energy-balls.jpeg" width="300">
  
+ these super easy two-ingredient snacks are perfect for that mid morning/mid afternoon/midnight hunger ;) 
  
  <!--more-->
 
