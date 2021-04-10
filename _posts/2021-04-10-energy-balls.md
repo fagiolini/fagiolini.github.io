@@ -12,7 +12,7 @@ tags: [sweets, glutenfree, ultrafast]
  
  <!--more-->
 
-these super easy two-ingredient snacks are perfect for that mid morning/mid afternoon/midnight hunger ;) 
+these super easy three-ingredient snacks are perfect for that mid morning/mid afternoon/midnight hunger ;) 
 
 *quantities for around 8 balls*
 
@@ -20,7 +20,8 @@ these super easy two-ingredient snacks are perfect for that mid morning/mid afte
 ---
 - nuts of choice: 50g
 - dates: 20 
-  > there are many different varieties of dates, we mostly use deglet noir dates which are the easiest to find and they're the cheapest too. feel free to use any type of date but just keep in mind that the softer they are, the better.
+- dark chocolate/cinnamon powder/cocoa powder/coconut flakes for coating (optional)
+  > there are many varieties of dates, we mostly use deglet noir dates which are the easiest to find and they're the cheapest too. feel free to use any type of date but just keep in mind that the softer they are, the better.
 
 
 
