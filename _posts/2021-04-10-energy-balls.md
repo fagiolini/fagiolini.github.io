@@ -3,7 +3,7 @@
 layout: post
 title: energy balls
 excerpt_separator: <!--more-->
-tags: [sweets]
+tags: [sweets, glutenfree, ultrafast]
 ---
 
 
@@ -18,10 +18,10 @@ these super easy two-ingredient snacks are perfect for that mid morning/mid afte
 
 ## ingredients
 ---
-- dates: 20 
-
-  > there are many different varieties of dates, we mostly use deglet noir dates which are the easiest to find and they're the cheapest too. feel free to use any type of date but just keep in mind that the softer they are, the better.
 - nuts of choice: 50g
+- dates: 20 
+  > there are many different varieties of dates, we mostly use deglet noir dates which are the easiest to find and they're the cheapest too. feel free to use any type of date but just keep in mind that the softer they are, the better.
+
 
 
 ## procedure
