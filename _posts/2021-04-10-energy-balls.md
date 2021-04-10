@@ -3,7 +3,7 @@
 layout: post
 title: energy balls
 excerpt_separator: <!--more-->
-tags: [sweets]
+tags: [sweets, glutenfree, ultrafast]
 ---
 
 
