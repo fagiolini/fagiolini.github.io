@@ -14,7 +14,7 @@ tags: [sweets, glutenfree]
 
 - hazelnuts: 250g
 - chocolate: 150g 
-- soy milk: 250ml
+- plant-based milk: 250ml
 - peanut or sunflower oil: 6 tablespoons
 - brown sugar: 150g
 

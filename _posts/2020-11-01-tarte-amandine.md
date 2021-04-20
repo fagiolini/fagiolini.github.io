@@ -19,7 +19,7 @@ start with the shortbrad dough, place it in the cake pan, and then move to the i
 - brown sugar (or other sugar): 20g
 - baking powder: 5g
 - sunflower oil (or other seed oil): 50g (might need 10g more if you use 00 flour)
-- vegetable drink: 50g
+- plant-based milk: 50g
 - salt: 1 pinch
 
 ## procedure

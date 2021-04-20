@@ -21,7 +21,7 @@ tags: [sweets, protein+, glutenfree]
 - brown sugar: 100g
 - sunflower oil: 60g
 - baking powder: 2 teaspoons
-- vegetable drink: 280g
+- plant-based milk: 280g
 - salt: 1 pinch
 
 ## procedure
