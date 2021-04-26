@@ -47,8 +47,8 @@ tags: [protein+, glutenfree]
 
 11. do not finish it all! keep 4 tablespoons to repeat the procedure and make more yogurt.
 
-> if the procedure does not work out the first time and you find milk instead of yogurt in the morning, do not worry, as we are not using any specific instrument (like kitchen thermometer or yogurt maker) it might take a few tries to get to learn the good measurements. there are only few problems that might arise in the process:
+> if the procedure does not work out the first time and you find milk instead of yogurt in the morning, do not worry, as we are not using any specific instrument (like kitchen thermometer or yogurt maker) it might take a few tries to get to learn the good measurements. in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy! there are only few problems that might arise in the process:
 - the milk was too hot and killed the enzymes: next time warm it less or be patient and let it cool down a bit before adding it to the yogurt
 - the milk was too cold for the enzymes to work: warm it up a little bit more
 - the environment cooled down too much: consider warming up the oven before putting your pot inside or cover your pot with a blanket to keep it warm longer
-> in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy!
+
