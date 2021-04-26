@@ -51,4 +51,4 @@ tags: [protein+, glutenfree]
 - the milk was too hot and killed the enzymes: next time warm it less or be patient and let it cool down a bit before adding it to the yogurt
 - the milk was too cold for the enzymes to work: warm it up a little bit more
 - the environment cooled down too much: consider warming up the oven before putting your pot inside or cover your pot with a blanket to keep it warm longer
-in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy!
+> in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy!
