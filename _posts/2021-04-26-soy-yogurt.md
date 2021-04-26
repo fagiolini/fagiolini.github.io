@@ -29,7 +29,7 @@ tags: [protein+, glutenfree]
 
 2. in the meantime, warm up some water: it should not be boiling-hot, yet warmer than the milk. we will use it to help maintain a warm environment for the enzyms to transform the milk into yogurt, but once again, if the environment is too hot, the enzymes will die.
 
-3. optional: warm up your over to 40/50° C. this will also help to keep your yogurt warm, but is not necessary.
+3. optional: warm up your oven to 40/50° C. this will also help to keep your yogurt warm, but is not necessary.
 
 4. pour the soy yogurt in some glass jars: we use two big glass jars of the capacity of half a liter each and put 2 tablespoons of yogurt in each jar. if you use more jars, divide the yogurt accordingly.
 
@@ -37,7 +37,7 @@ tags: [protein+, glutenfree]
 
 6. then add the remaining milk and, again, mix gently.
 
-7. put your jars in a pot, put the lids on the jars without closing them.
+7. put your jars in a pot, cover your jars with their lid without closing them.
 
 8. add the hot water in the pot until it covers all the yogurt in the jars, put pay attention not to let it go over the lids or it will enter the jars!
 
