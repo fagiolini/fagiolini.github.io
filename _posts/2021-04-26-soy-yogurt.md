@@ -25,7 +25,7 @@ tags: [protein+, glutenfree]
 ## procedure
 ---
 
-1. warm up the soy milk in a pot. the milk should be warm but not hot: to know when it is ready, put a clean finger inside the milk, it should feel a little bit warmer than your body temperature, but not burning. if it is too hot, let it cool down a moment, otherwise it will kill the enzymes that make the yogurt.
+1. warm up the soy milk in a pot. the milk should be warm but not hot: to know when it is ready, measure its temperature with your finger, it should feel a little bit warmer than your body temperature, but not burning. if it is too hot, let it cool down a moment, otherwise it will kill the enzymes that make the yogurt.
 
 2. in the meantime, warm up some water: it should not be boiling-hot, yet warmer than the milk. we will use it to help maintain a warm environment for the enzyms to transform the milk into yogurt, but once again, if the environment is too hot, the enzymes will die.
 
@@ -37,17 +37,17 @@ tags: [protein+, glutenfree]
 
 6. then add the remaining milk and, again, mix gently.
 
-7. put your jars in a pot, cover your jars with their lid without closing them.
+7. put your jars in a pot, cover them with their lid without closing them.
 
-8. add the hot water in the pot until it covers all the yogurt in the jars, put pay attention not to let it go over the lids or it will enter the jars!
+8. add the hot water in the pot until it covers all the yogurt in the jars, but pay attention not to let it go over the lids or it will enter the jars!
 
 9. cover the pot with a lid and store it in the turned-off oven, or other closed environment, for 8-12 hours.
 
-10. if you make it in the evening, you will find freshly made delicious yogurt ready for your morning breakfast! let it cool down completey and then store it in the fridge.
+10. if you make it in the evening, you will find freshly-made delicious yogurt ready for your morning breakfast! let it cool down completey and then store it in the fridge.
 
 11. do not finish it all! keep 4 tablespoons to repeat the procedure and make more yogurt.
 
-> if the procedure does not work out the first time and you find milk instead of yogurt in the morning, do not worry, as we are not using any specific instrument (like kitchen thermometer or yogurt maker) it might take a few tries to get to learn the good measurements. in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy! there are only few problems that might arise in the process:
+> if the procedure does not work out the first time and you find milk instead of yogurt in the morning, do not worry, as we are not using any specific instrument (like kitchen thermometer or yogurt maker) it might take a few tries to get to learn the good measurements. in your next try, you can re-use the same milk and add new yogurt. after a couple of attempts you will have learnt the exact temperature needed and the procedure will become extreamly easy! there are only few problems that might arise in the process and here's how to solve them:
 - the milk was too hot and killed the enzymes: next time warm it less or be patient and let it cool down a bit before adding it to the yogurt
 - the milk was too cold for the enzymes to work: warm it up a little bit more
 - the environment cooled down too much: consider warming up the oven before putting your pot inside or cover your pot with a blanket to keep it warm longer
