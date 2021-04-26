@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: soy yogurt without yogurt maker - super easy
+title: soy yogurt without yogurt maker
 excerpt_separator: <!--more-->
 tags: [protein+, glutenfree]
 ---
