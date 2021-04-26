@@ -20,7 +20,7 @@ tags: [protein+, glutenfree]
 
 > you will only need to buy soy yogurt for the first time, afterwards you will reuse your homemade yogurt to make more of it.
 
-> we suggest using plain, sugarfree soy milk. you can add sweetners and flavors to your taste once your plain yogurt is ready!
+> we suggest using plain, sugarfree soy milk. you can add sweeteners and flavors to your taste once your plain yogurt is ready!
 
 ## procedure
 ---
