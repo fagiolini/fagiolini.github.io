@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 tags: [tofu, protein+, w/rice, glutenfree]
 ---
 
- <img src="../../../images/coconut-curry.jpg" width="300">
+ <img src="../../../images/coconut-curry.jpeg" width="300">
  
  <!--more-->
 
