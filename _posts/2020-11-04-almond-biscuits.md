@@ -31,4 +31,4 @@ tags: [sweets]
    
 5. spread it out and, with small moulds, separate the cookies.
    
-6. bake in the oven at 160 degrees for 20 minutes. while they are hot the cookies will be soft, but they will harden as soon as they cool down.
+6. bake at 160° C for 20 minutes in the oven. while they are hot the cookies will be soft, but they will harden as soon as they cool down.
