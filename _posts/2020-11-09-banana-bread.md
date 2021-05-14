@@ -29,7 +29,7 @@ tags: [sweets]
 
 1. start by peeling three ripe bananas and putting them in the blender. 
    
-2. stone 8 large dates, and add them to the rest, along with two teaspoons of apple vinegar, 200 ml of water. at this point blend until you get a dense mixture. 
+2. stone 10 dates, and add them to the rest, along with two teaspoons of apple vinegar, 200 ml of water. at this point blend until you get a dense mixture. 
    
 3. separately, in a large bowl, pour the flour, the baking powder, a teaspoon of cinnamon and half a teaspoon of salt. stir quickly to distribute them well and pour the banana mixture you have just blended, a little at a time, stirring until everything is smooth (and sexy). 
    
