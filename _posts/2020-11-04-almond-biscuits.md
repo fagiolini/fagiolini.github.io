@@ -9,13 +9,15 @@ tags: [sweets]
 
 <!--more-->
 
+_quantities for roughly 25 biscuits_
+
 ## ingredients
 ---
 
 - almonds: 130g
 - flour: 200g 
 - sunflower or peanut oil: 120g
-- cane sugar: 50g
+- sugar: 50g
 - marsala wine (or other sweet wine): 1 small glass
 
 ## procedure
