@@ -52,3 +52,5 @@ tags: [protein+, glutenfree]
 - the milk was too cold for the enzymes to work: warm it up a little bit more
 - the environment cooled down too much: consider warming up the oven before putting your pot inside or cover your pot with a blanket to keep it warm longer
 
+> note that the thickness of your yogurt will depend on your soy milk: if it's too liquid, try another brand.
+
